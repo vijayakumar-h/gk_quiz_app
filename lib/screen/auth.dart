@@ -1,5 +1,7 @@
 import 'package:chat_app/utils/common_exports.dart';
 
+final FirebaseAuth _firebase = FirebaseAuth.instance;
+
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key});
 
@@ -13,12 +15,47 @@ class _AuthScreenState extends State<AuthScreen> {
   String _enteredEmail = '';
   String _enteredPassword = '';
 
-  void _submit() {
+  void _submit() async {
     final bool isValidate = _formKey.currentState!.validate();
-    if(isValidate){
-      _formKey.currentState!.save();
-      print(_enteredEmail);
-      print(_enteredPassword);
+
+    if (!isValidate) {
+      return;
+    }
+    _formKey.currentState!.save();
+    if (_isLogin) {
+      try {
+        final userCredentials = _firebase.signInWithEmailAndPassword(
+            email: _enteredEmail, password: _enteredPassword);
+      } on FirebaseException catch (error) {
+        if (error.code == 'email-already-in-use') {
+          ///
+        }
+        ScaffoldMessenger.of(context).clearSnackBars();
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(
+              error.message ?? 'Authentication failed.',
+            ),
+          ),
+        );
+      }
+    } else {
+      try {
+        final userCredentials = await _firebase.createUserWithEmailAndPassword(
+            email: _enteredEmail, password: _enteredPassword);
+      } on FirebaseException catch (error) {
+        if (error.code == 'email-already-in-use') {
+          ///
+        }
+        ScaffoldMessenger.of(context).clearSnackBars();
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(
+              error.message ?? 'Authentication failed.',
+            ),
+          ),
+        );
+      }
     }
   }
 
