@@ -1,0 +1,1330 @@
+{
+  "id": "history_geo",
+  "name": "History & Geography",
+  "description": "Journey across world capitals, landmarks, and historic milestones across 11 levels.",
+  "icon": "public",
+  "primaryColor": 4282622023,
+  "accentColor": 4286695300,
+  "questions": [
+    {
+      "id": "history_1",
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Canberra was founded as a compromise capital between rivals Sydney and Melbourne in 1908."
+    },
+    {
+      "id": "history_2",
+      "question": "What is traditionally considered the longest river in the world?",
+      "options": [
+        "Amazon River",
+        "Nile River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Nile River spans approximately 6,650 km (4,132 miles) through northeastern Africa."
+    },
+    {
+      "id": "history_3",
+      "question": "Which country has the largest total land area in the world?",
+      "options": [
+        "Canada",
+        "China",
+        "United States",
+        "Russia"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Russia covers over 17.1 million square kilometers across Europe and Asia."
+    },
+    {
+      "id": "history_4",
+      "question": "What is the tallest mountain peak on Earth above sea level?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kangchenjunga",
+        "Lhotse"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mount Everest in the Himalayas stands at 8,848.86 meters (29,031.7 feet)."
+    },
+    {
+      "id": "history_5",
+      "question": "What is the capital city of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Ottawa was chosen as Canada's capital by Queen Victoria in 1857."
+    },
+    {
+      "id": "history_6",
+      "question": "Which continent has the most countries?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Africa contains 54 fully recognized sovereign nations."
+    },
+    {
+      "id": "history_7",
+      "question": "What is the capital city of Japan?",
+      "options": [
+        "Kyoto",
+        "Tokyo",
+        "Osaka",
+        "Hiroshima"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Tokyo has been the capital and seat of the Emperor since 1868."
+    },
+    {
+      "id": "history_8",
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Sahara Desert in North Africa covers roughly 9.2 million square kilometers."
+    },
+    {
+      "id": "history_9",
+      "question": "What is the capital of Brazil?",
+      "options": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Brasília replaced Rio de Janeiro as the federal capital in 1960."
+    },
+    {
+      "id": "history_10",
+      "question": "Which island is the largest island in the world by area?",
+      "options": [
+        "Madagascar",
+        "Greenland",
+        "Borneo",
+        "New Guinea"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Greenland covers about 2.16 million square kilometers."
+    },
+    {
+      "id": "history_11",
+      "question": "Which ancient civilization built the Great Pyramids of Giza?",
+      "options": [
+        "Mesopotamians",
+        "Ancient Egyptians",
+        "Romans",
+        "Persians"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Fourth Dynasty pharaohs of Ancient Egypt erected the Giza pyramids ~2500 BCE."
+    },
+    {
+      "id": "history_12",
+      "question": "Which two rivers defined the ancient region of Mesopotamia?",
+      "options": [
+        "Nile and Jordan",
+        "Tigris and Euphrates",
+        "Indus and Ganges",
+        "Yellow and Yangtze"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mesopotamia literally means 'between rivers' in Greek, referring to the Tigris and Euphrates."
+    },
+    {
+      "id": "history_13",
+      "question": "Who was the first Emperor of the Roman Empire?",
+      "options": [
+        "Julius Caesar",
+        "Augustus Caesar",
+        "Nero",
+        "Marcus Aurelius"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Octavian took the title Augustus in 27 BCE, becoming Rome's inaugural emperor."
+    },
+    {
+      "id": "history_14",
+      "question": "What ancient civilization is credited with inventing the wheel and cuneiform writing?",
+      "options": [
+        "Sumerians",
+        "Hittites",
+        "Phoenicians",
+        "Minoans"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Sumerians of lower Mesopotamia developed cuneiform and the wheel around 3500 BCE."
+    },
+    {
+      "id": "history_15",
+      "question": "Which famous Greek philosopher was the teacher of Alexander the Great?",
+      "options": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Pythagoras"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Aristotle was hired by King Philip II of Macedon to tutor his young son Alexander."
+    },
+    {
+      "id": "history_16",
+      "question": "In which modern-day country did the ancient Indus Valley Civilization flourish?",
+      "options": [
+        "Egypt",
+        "India and Pakistan",
+        "Iraq",
+        "Turkey"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Major sites like Harappa and Mohenjo-daro are situated along the Indus River basin in Pakistan and northwest India."
+    },
+    {
+      "id": "history_17",
+      "question": "Who was the first Emperor of a unified China who built the Terracotta Army?",
+      "options": [
+        "Qin Shi Huang",
+        "Kublai Khan",
+        "Sun Yat-sen",
+        "Han Wudi"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Qin Shi Huang united China in 221 BCE and ordered the Terracotta Army buried with him."
+    },
+    {
+      "id": "history_18",
+      "question": "Which ancient city was famously destroyed by the eruption of Mount Vesuvius in 79 CE?",
+      "options": [
+        "Rome",
+        "Pompeii",
+        "Athens",
+        "Carthage"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Pompeii and neighboring Herculaneum were buried under pumice and volcanic ash in 79 CE."
+    },
+    {
+      "id": "history_19",
+      "question": "What ancient legal code is famous for the principle 'an eye for an eye'?",
+      "options": [
+        "Code of Justinian",
+        "Code of Hammurabi",
+        "Twelve Tables",
+        "Magna Carta"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "King Hammurabi of Babylon promulgated his comprehensive legal code around 1754 BCE."
+    },
+    {
+      "id": "history_20",
+      "question": "Which ancient Wonder of the World was located in Alexandria, Egypt?",
+      "options": [
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Statue of Zeus",
+        "Temple of Artemis"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Pharos of Alexandria was a lighthouse built by the Ptolemaic Kingdom ~280 BCE."
+    },
+    {
+      "id": "history_21",
+      "question": "In which year was the Magna Carta signed by King John of England?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1776"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Barons compelled King John to seal the Magna Carta at Runnymede in June 1215."
+    },
+    {
+      "id": "history_22",
+      "question": "What devastating pandemic killed an estimated 30-60% of Europe's population in the 14th century?",
+      "options": [
+        "Spanish Flu",
+        "Black Death",
+        "Cholera",
+        "Smallpox"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Black Death (bubonic plague) ravaged Europe between 1346 and 1353."
+    },
+    {
+      "id": "history_23",
+      "question": "Who founded the vast Mongol Empire in the early 13th century?",
+      "options": [
+        "Kublai Khan",
+        "Genghis Khan",
+        "Tamerlane",
+        "Attila the Hun"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Genghis Khan united nomadic tribes in 1206 to establish the largest contiguous land empire in history."
+    },
+    {
+      "id": "history_24",
+      "question": "What was the capital of the Eastern Roman (Byzantine) Empire?",
+      "options": [
+        "Rome",
+        "Constantinople",
+        "Athens",
+        "Alexandria"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Constantinople (modern Istanbul) was the vibrant heart of the Byzantine Empire until 1453."
+    },
+    {
+      "id": "history_25",
+      "question": "In what year did Constantinople fall to the Ottoman Empire led by Sultan Mehmed II?",
+      "options": [
+        "1066",
+        "1204",
+        "1453",
+        "1517"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Ottoman conquest of Constantinople in 1453 marked the end of the Byzantine Empire."
+    },
+    {
+      "id": "history_26",
+      "question": "Which famous battle took place in England in 1066 leading to the Norman Conquest?",
+      "options": [
+        "Battle of Hastings",
+        "Battle of Agincourt",
+        "Battle of Bosworth",
+        "Battle of Waterloo"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "William the Conqueror defeated King Harold II at the Battle of Hastings in October 1066."
+    },
+    {
+      "id": "history_27",
+      "question": "Who was the French peasant girl who led the royal army during the Hundred Years' War?",
+      "options": [
+        "Marie Antoinette",
+        "Joan of Arc",
+        "Catherine de' Medici",
+        "Eleanor of Aquitaine"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Joan of Arc lifted the Siege of Orléans in 1429 before being martyred in 1431."
+    },
+    {
+      "id": "history_28",
+      "question": "Which European traveler spent 24 years traveling across Asia and served Kublai Khan?",
+      "options": [
+        "Marco Polo",
+        "Vasco da Gama",
+        "Ibn Battuta",
+        "Christopher Columbus"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Venetian merchant Marco Polo documented Asian geography and culture in 'The Travels of Marco Polo'."
+    },
+    {
+      "id": "history_29",
+      "question": "What famous Moroccan scholar traveled over 73,000 miles across the Islamic world in the 14th century?",
+      "options": [
+        "Al-Khwarizmi",
+        "Ibn Battuta",
+        "Averroes",
+        "Saladin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ibn Battuta visited North Africa, the Middle East, Central Asia, India, and China."
+    },
+    {
+      "id": "history_30",
+      "question": "Which dynasty ruled the Aztec Empire until the Spanish conquest led by Hernán Cortés?",
+      "options": [
+        "Inca",
+        "Maya",
+        "Mexica (Aztec)",
+        "Toltec"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Hernán Cortés captured Tenochtitlan and conquered the Aztec Empire in 1521."
+    },
+    {
+      "id": "history_31",
+      "question": "In what year did Christopher Columbus first make landfall in the Americas?",
+      "options": [
+        "1492",
+        "1498",
+        "1504",
+        "1512"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Columbus landed in the Bahamas on October 12, 1492, under the sponsorship of Spain."
+    },
+    {
+      "id": "history_32",
+      "question": "Which Portuguese explorer was the first European to reach India by sea around the Cape of Good Hope?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Bartolomeu Dias",
+        "Pedro Álvares Cabral"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Vasco da Gama reached Calicut (Kozhikode), India, in May 1498."
+    },
+    {
+      "id": "history_33",
+      "question": "Whose expedition was the first to successfully circumnavigate the globe (1519-1522)?",
+      "options": [
+        "Francis Drake",
+        "Ferdinand Magellan",
+        "James Cook",
+        "Amerigo Vespucci"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Magellan initiated the voyage; Juan Sebastián Elcano completed it after Magellan died in the Philippines."
+    },
+    {
+      "id": "history_34",
+      "question": "Which continent is named after the Italian explorer Amerigo Vespucci?",
+      "options": [
+        "Australia",
+        "America",
+        "Antarctica",
+        "Africa"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Cartographer Martin Waldseemüller named the new continents 'America' on his 1507 world map."
+    },
+    {
+      "id": "history_35",
+      "question": "Which English explorer famously circumnavigated the globe aboard the Golden Hind between 1577 and 1580?",
+      "options": [
+        "Sir Walter Raleigh",
+        "Sir Francis Drake",
+        "Captain James Cook",
+        "Henry Hudson"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Drake was knighted by Queen Elizabeth I for his round-the-world privateering voyage."
+    },
+    {
+      "id": "history_36",
+      "question": "Which treaty signed in 1494 divided newly discovered lands outside Europe between Spain and Portugal?",
+      "options": [
+        "Treaty of Versailles",
+        "Treaty of Tordesillas",
+        "Treaty of Utrecht",
+        "Treaty of Paris"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Treaty of Tordesillas drew a meridian 370 leagues west of the Cape Verde islands."
+    },
+    {
+      "id": "history_37",
+      "question": "Who was the British naval captain that mapped New Zealand and the eastern coast of Australia in the 1770s?",
+      "options": [
+        "Captain James Cook",
+        "Captain Bligh",
+        "Horatio Nelson",
+        "Sir John Franklin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Captain Cook undertook three Pacific voyages on the HMS Endeavour and Resolution."
+    },
+    {
+      "id": "history_38",
+      "question": "Which explorer discovered the Victoria Falls on the Zambezi River in 1855?",
+      "options": [
+        "David Livingstone",
+        "Henry Morton Stanley",
+        "Cecil Rhodes",
+        "Mungo Park"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Scottish missionary David Livingstone named the falls in honor of Queen Victoria."
+    },
+    {
+      "id": "history_39",
+      "question": "Who led the first expedition to reach the geographic South Pole in December 1911?",
+      "options": [
+        "Robert Falcon Scott",
+        "Roald Amundsen",
+        "Ernest Shackleton",
+        "Douglas Mawson"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Norwegian explorer Roald Amundsen reached the South Pole 34 days ahead of Captain Scott."
+    },
+    {
+      "id": "history_40",
+      "question": "Who was the first person to set foot on the summit of Mount Everest in May 1953 alongside Tenzing Norgay?",
+      "options": [
+        "George Mallory",
+        "Edmund Hillary",
+        "Reinhold Messner",
+        "Chris Bonington"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Edmund Hillary of New Zealand and Sherpa Tenzing Norgay reached the summit on May 29, 1953."
+    },
+    {
+      "id": "history_41",
+      "question": "What is the deepest known oceanic trench on planet Earth?",
+      "options": [
+        "Puerto Rico Trench",
+        "Java Trench",
+        "Mariana Trench",
+        "Tonga Trench"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Challenger Deep in the Mariana Trench reaches approximately 10,994 meters (36,070 feet)."
+    },
+    {
+      "id": "history_42",
+      "question": "Which river flows through the largest rainforest in the world?",
+      "options": [
+        "Congo River",
+        "Amazon River",
+        "Mekong River",
+        "Orinoco River"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Amazon River basin contains the vast Amazon Rainforest across South America."
+    },
+    {
+      "id": "history_43",
+      "question": "In which country is the famous archaeological citadel of Machu Picchu located?",
+      "options": [
+        "Bolivia",
+        "Peru",
+        "Chile",
+        "Ecuador"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Machu Picchu is an Incan citadel built in the 15th century high in the Andes mountains of Peru."
+    },
+    {
+      "id": "history_44",
+      "question": "What is the highest uninterrupted waterfall in the world?",
+      "options": [
+        "Niagara Falls",
+        "Iguazu Falls",
+        "Angel Falls",
+        "Victoria Falls"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Angel Falls (Salto Ángel) in Venezuela has a plunge of 979 meters (3,212 feet)."
+    },
+    {
+      "id": "history_45",
+      "question": "What body of water separates the United Kingdom from mainland Europe?",
+      "options": [
+        "Baltic Sea",
+        "English Channel",
+        "North Sea",
+        "Irish Sea"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The English Channel connects the North Sea to the Atlantic Ocean."
+    },
+    {
+      "id": "history_46",
+      "question": "Which is the largest freshwater lake by volume in the world?",
+      "options": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Victoria",
+        "Lake Michigan"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Lake Baikal in Siberia contains about 20% of the world's unfrozen surface fresh water."
+    },
+    {
+      "id": "history_47",
+      "question": "What strait connects the Mediterranean Sea to the Atlantic Ocean?",
+      "options": [
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Strait of Gibraltar",
+        "Bosphorus Strait"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Strait of Gibraltar lies between southern Spain and northern Morocco."
+    },
+    {
+      "id": "history_48",
+      "question": "Which African country is completely surrounded by South Africa?",
+      "options": [
+        "Swaziland (Eswatini)",
+        "Lesotho",
+        "Botswana",
+        "Namibia"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Lesotho is an enclaved landlocked high-altitude country encircled by South Africa."
+    },
+    {
+      "id": "history_49",
+      "question": "What is the longest mountain range on land on Earth?",
+      "options": [
+        "Himalayas",
+        "Rocky Mountains",
+        "Andes",
+        "Alps"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Andes stretch over 7,000 kilometers along the western edge of South America."
+    },
+    {
+      "id": "history_50",
+      "question": "Which country has the most natural islands in the world?",
+      "options": [
+        "Indonesia",
+        "Sweden",
+        "Philippines",
+        "Canada"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sweden has over 267,000 islands, more than any other nation on Earth."
+    },
+    {
+      "id": "history_51",
+      "question": "The assassination of which figure in June 1914 triggered the outbreak of World War I?",
+      "options": [
+        "Archduke Franz Ferdinand",
+        "Kaiser Wilhelm II",
+        "Tsar Nicholas II",
+        "King George V"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Gavrilo Princip assassinated Austrian Archduke Franz Ferdinand in Sarajevo on June 28, 1914."
+    },
+    {
+      "id": "history_52",
+      "question": "In which year did World War I officially end with the armistice?",
+      "options": [
+        "1916",
+        "1917",
+        "1918",
+        "1919"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Hostilities ceased on the 11th hour of the 11th day of the 11th month in 1918."
+    },
+    {
+      "id": "history_53",
+      "question": "Which US naval base was attacked by Japan on December 7, 1941, bringing the US into World War II?",
+      "options": [
+        "Guam",
+        "Pearl Harbor",
+        "Midway",
+        "San Diego"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The surprise attack on Pearl Harbor in Hawaii prompted the United States to declare war on Japan."
+    },
+    {
+      "id": "history_54",
+      "question": "On which French beaches did Allied troops land during the D-Day invasion on June 6, 1944?",
+      "options": [
+        "Normandy",
+        "Brittany",
+        "Riviera",
+        "Dunkirk"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Operation Overlord landed Allied forces across five beach sectors in Normandy."
+    },
+    {
+      "id": "history_55",
+      "question": "In which two Japanese cities were atomic bombs dropped in August 1945?",
+      "options": [
+        "Tokyo and Osaka",
+        "Hiroshima and Nagasaki",
+        "Kyoto and Yokohama",
+        "Nagoya and Kobe"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The atomic detonations on Hiroshima (Aug 6) and Nagasaki (Aug 9) precipitated Japan's surrender."
+    },
+    {
+      "id": "history_56",
+      "question": "What international peacekeeping organization was founded in October 1945 following WWII?",
+      "options": [
+        "League of Nations",
+        "United Nations",
+        "NATO",
+        "Warsaw Pact"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The UN was chartered in San Francisco by 50 nations to prevent future global conflicts."
+    },
+    {
+      "id": "history_57",
+      "question": "What symbolic barrier divided East and West Berlin from 1961 until its fall in 1989?",
+      "options": [
+        "Iron Curtain",
+        "Berlin Wall",
+        "Maginot Line",
+        "Siegfried Line"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Berlin Wall was erected by East Germany in August 1961 and fell in November 1989."
+    },
+    {
+      "id": "history_58",
+      "question": "Who was the British Prime Minister that led the UK through most of World War II?",
+      "options": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Clement Attlee",
+        "Anthony Eden"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Churchill delivered iconic speeches and wartime leadership from 1940 to 1945."
+    },
+    {
+      "id": "history_59",
+      "question": "In what year did the Soviet Union officially dissolve?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1995"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The USSR was formally dissolved on December 26, 1991, creating 15 independent nations."
+    },
+    {
+      "id": "history_60",
+      "question": "What military alliance was established by Western nations in 1949 for collective defense?",
+      "options": [
+        "NATO",
+        "Warsaw Pact",
+        "SEATO",
+        "ANZUS"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The North Atlantic Treaty Organization was formed to counter Soviet expansionism."
+    },
+    {
+      "id": "history_61",
+      "question": "Who led the nonviolent Salt March in India in 1930 to protest British salt taxes?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Sardar Patel"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mahatma Gandhi led the 240-mile Dandi March, galvanizing the Indian independence movement."
+    },
+    {
+      "id": "history_62",
+      "question": "Who served 27 years in prison before becoming South Africa's first Black president in 1994?",
+      "options": [
+        "Desmond Tutu",
+        "Nelson Mandela",
+        "Steve Biko",
+        "Thabo Mbeki"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Nelson Mandela won the Nobel Peace Prize in 1993 and led the post-apartheid transition."
+    },
+    {
+      "id": "history_63",
+      "question": "Which American President issued the Emancipation Proclamation in 1863?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Ulysses S. Grant"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Lincoln declared all enslaved individuals in Confederate states to be forever free."
+    },
+    {
+      "id": "history_64",
+      "question": "Who was the legendary queen of Egypt who allied with Julius Caesar and Mark Antony?",
+      "options": [
+        "Nefertiti",
+        "Cleopatra VII",
+        "Hatshepsut",
+        "Sobekneferu"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt."
+    },
+    {
+      "id": "history_65",
+      "question": "Which Russian monarch founded the city of Saint Petersburg in 1703?",
+      "options": [
+        "Ivan the Terrible",
+        "Peter the Great",
+        "Catherine the Great",
+        "Nicholas II"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Tsar Peter the Great established Saint Petersburg as a European-facing seaport capital."
+    },
+    {
+      "id": "history_66",
+      "question": "In what year did the storming of the Bastille mark the start of the French Revolution?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1804"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Parisian revolutionaries stormed the Bastille fortress on July 14, 1789."
+    },
+    {
+      "id": "history_67",
+      "question": "Who was the civil rights leader who delivered the historic 'I Have a Dream' speech in 1963?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "John Lewis",
+        "Medgar Evers"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Dr. King delivered his speech on the steps of the Lincoln Memorial in Washington, D.C."
+    },
+    {
+      "id": "history_68",
+      "question": "Who was the first woman to be elected Prime Minister of the United Kingdom in 1979?",
+      "options": [
+        "Queen Elizabeth II",
+        "Margaret Thatcher",
+        "Theresa May",
+        "Mary Robinson"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Known as the 'Iron Lady', Margaret Thatcher served as UK Prime Minister until 1990."
+    },
+    {
+      "id": "history_69",
+      "question": "What famous treaty officially ended the American Revolutionary War in 1783?",
+      "options": [
+        "Treaty of Ghent",
+        "Treaty of Paris",
+        "Treaty of Utrecht",
+        "Treaty of London"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Great Britain recognized American independence in the Treaty of Paris of 1783."
+    },
+    {
+      "id": "history_70",
+      "question": "Which Roman general crossed the Rubicon river in 49 BCE, igniting a civil war?",
+      "options": [
+        "Pompey",
+        "Julius Caesar",
+        "Mark Antony",
+        "Scipio Africanus"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Caesar's crossing of the Rubicon marked the irreversible plunge into Roman civil war."
+    },
+    {
+      "id": "history_71",
+      "question": "What is the smallest independent sovereign state in the world by land area and population?",
+      "options": [
+        "Monaco",
+        "Nauru",
+        "Vatican City",
+        "San Marino"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Vatican City covers just 0.49 square kilometers (121 acres) in the heart of Rome."
+    },
+    {
+      "id": "history_72",
+      "question": "Which country shares the longest international land border in the world with another country?",
+      "options": [
+        "Russia and China",
+        "United States and Canada",
+        "Chile and Argentina",
+        "India and Bangladesh"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The US-Canada border stretches 8,891 kilometers (5,525 miles)."
+    },
+    {
+      "id": "history_73",
+      "question": "What is the only continent that contains no sovereign countries?",
+      "options": [
+        "Australia",
+        "Antarctica",
+        "South America",
+        "Europe"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Antarctica is governed by the Antarctic Treaty System dedicated to scientific research."
+    },
+    {
+      "id": "history_74",
+      "question": "Which city is known as the highest capital city in the world above sea level?",
+      "options": [
+        "Quito, Ecuador",
+        "La Paz, Bolivia",
+        "Bogotá, Colombia",
+        "Kathmandu, Nepal"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "La Paz sits at roughly 3,640 meters (11,942 feet) above sea level."
+    },
+    {
+      "id": "history_75",
+      "question": "Which African nation was never colonized during the 'Scramble for Africa'?",
+      "options": [
+        "Kenya",
+        "Nigeria",
+        "Ethiopia",
+        "Ghana"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Ethiopia successfully defended its sovereignty against colonial Italian invasion at Adwa in 1896."
+    },
+    {
+      "id": "history_76",
+      "question": "What is the capital of Turkey?",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Izmir",
+        "Antalya"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ankara became Turkey's capital in 1923 under Mustafa Kemal Atatürk, succeeding Istanbul."
+    },
+    {
+      "id": "history_77",
+      "question": "How many total landlocked countries are there on the continent of South America?",
+      "options": [
+        "0",
+        "2 (Bolivia and Paraguay)",
+        "4",
+        "6"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Bolivia and Paraguay are the only two landlocked countries in South America."
+    },
+    {
+      "id": "history_78",
+      "question": "Which country has the longest total coastline in the world?",
+      "options": [
+        "Australia",
+        "Norway",
+        "Canada",
+        "Indonesia"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Canada has over 243,000 kilometers of coastline spanning three oceans."
+    },
+    {
+      "id": "history_79",
+      "question": "What is the capital city of New Zealand?",
+      "options": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Wellington is the world's southernmost sovereign capital city."
+    },
+    {
+      "id": "history_80",
+      "question": "Which European nation has four official languages: German, French, Italian, and Romansh?",
+      "options": [
+        "Belgium",
+        "Switzerland",
+        "Austria",
+        "Luxembourg"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Switzerland recognizes all four linguistic groups constitutionally."
+    },
+    {
+      "id": "history_81",
+      "question": "In which Indian city is the iconic white marble Taj Mahal situated?",
+      "options": [
+        "Delhi",
+        "Agra",
+        "Jaipur",
+        "Mumbai"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mughal Emperor Shah Jahan commissioned the Taj Mahal in Agra in 1632 for his wife Mumtaz."
+    },
+    {
+      "id": "history_82",
+      "question": "Which massive stone fortification was constructed across northern China to defend against invasions?",
+      "options": [
+        "Great Wall of China",
+        "Hadrian's Wall",
+        "Antonine Wall",
+        "Berlin Wall"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Sections of the Great Wall stretch thousands of kilometers, extensively rebuilt by the Ming dynasty."
+    },
+    {
+      "id": "history_83",
+      "question": "In which European city will you find the ancient amphitheater known as the Colosseum?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Florence",
+        "Naples"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Flavian Amphitheatre (Colosseum) in Rome was completed around 80 CE."
+    },
+    {
+      "id": "history_84",
+      "question": "What famous prehistoric stone circle monument is located in Wiltshire, England?",
+      "options": [
+        "Carnac",
+        "Stonehenge",
+        "Newgrange",
+        "Avebury"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Stonehenge's ring of standing megaliths dates back to between 3000 and 2000 BCE."
+    },
+    {
+      "id": "history_85",
+      "question": "Which grand bell tower and clock is located at the north end of the Palace of Westminster in London?",
+      "options": [
+        "Big Ben",
+        "Eiffel Tower",
+        "Tower of London",
+        "Spire of Dublin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Big Ben is the nickname of the Great Bell inside Elizabeth Tower in London."
+    },
+    {
+      "id": "history_86",
+      "question": "In which country is the archaeological rock-cut rose city of Petra located?",
+      "options": [
+        "Egypt",
+        "Jordan",
+        "Israel",
+        "Lebanon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Petra was the capital of the Nabataean Kingdom, famous for its carved sandstone facade, Al-Khazneh."
+    },
+    {
+      "id": "history_87",
+      "question": "Which iron lattice monument was erected in Paris as the entrance arch for the 1889 World's Fair?",
+      "options": [
+        "Arc de Triomphe",
+        "Eiffel Tower",
+        "Louvre Pyramid",
+        "Panthéon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Gustave Eiffel designed the 330-meter tower, now France's most iconic symbol."
+    },
+    {
+      "id": "history_88",
+      "question": "What colossal neoclassical sculpture stands on Liberty Island in New York Harbor?",
+      "options": [
+        "Mount Rushmore",
+        "Statue of Liberty",
+        "Lincoln Memorial",
+        "Christ the Redeemer"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The statue was a gift from France to the United States, dedicated in 1886."
+    },
+    {
+      "id": "history_89",
+      "question": "In which country is the ancient temple complex of Angkor Wat located?",
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Angkor Wat in Cambodia is the largest religious monument in the world, built by the Khmer Empire."
+    },
+    {
+      "id": "history_90",
+      "question": "On which mountain in South Dakota are the faces of four US presidents carved?",
+      "options": [
+        "Mount Whitney",
+        "Mount Rainier",
+        "Mount Rushmore",
+        "Pikes Peak"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Mount Rushmore depicts Washington, Jefferson, Theodore Roosevelt, and Lincoln."
+    },
+    {
+      "id": "history_91",
+      "question": "What year saw the maiden voyage and sinking of the passenger liner RMS Titanic?",
+      "options": [
+        "1908",
+        "1912",
+        "1916",
+        "1920"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Titanic struck an iceberg in the North Atlantic and sank on April 15, 1912."
+    },
+    {
+      "id": "history_92",
+      "question": "Which two Apollo 11 astronauts walked on the Moon on July 20, 1969?",
+      "options": [
+        "Neil Armstrong and Buzz Aldrin",
+        "Alan Shepard and John Glenn",
+        "Jim Lovell and Pete Conrad",
+        "Michael Collins and Buzz Aldrin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Neil Armstrong and Buzz Aldrin spent over two hours exploring Tranquility Base."
+    },
+    {
+      "id": "history_93",
+      "question": "In what year did the Chernobyl nuclear disaster occur in Soviet Ukraine?",
+      "options": [
+        "1979",
+        "1984",
+        "1986",
+        "1991"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Reactor No. 4 exploded on April 26, 1986, during a safety test."
+    },
+    {
+      "id": "history_94",
+      "question": "Which international treaty entered into force in 1993 establishing the European Union?",
+      "options": [
+        "Treaty of Rome",
+        "Maastricht Treaty",
+        "Lisbon Treaty",
+        "Schengen Agreement"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Maastricht Treaty integrated European communities into the European Union."
+    },
+    {
+      "id": "history_95",
+      "question": "In what year did the Panama Canal officially open, connecting the Atlantic and Pacific oceans?",
+      "options": [
+        "1898",
+        "1904",
+        "1914",
+        "1924"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The 82-kilometer canal officially opened to commercial traffic on August 15, 1914."
+    },
+    {
+      "id": "history_96",
+      "question": "What international trade agreement between the US, Canada, and Mexico was enacted in 1994?",
+      "options": [
+        "NAFTA",
+        "USMCA",
+        "CAFTA",
+        "MERCOSUR"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The North American Free Trade Agreement eliminated trade tariffs among the three nations."
+    },
+    {
+      "id": "history_97",
+      "question": "Who was the Soviet leader who introduced the policies of 'Glasnost' (openness) and 'Perestroika' (restructuring)?",
+      "options": [
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Nikita Khrushchev",
+        "Boris Yeltsin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Gorbachev's reforms inadvertently accelerated the disintegration of the Soviet bloc."
+    },
+    {
+      "id": "history_98",
+      "question": "In what year did Hong Kong sovereignty transfer from the United Kingdom to China?",
+      "options": [
+        "1992",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The handover concluded 156 years of British colonial rule on July 1, 1997."
+    },
+    {
+      "id": "history_99",
+      "question": "Which organization was awarded the Nobel Peace Prize in 2020 for efforts to combat hunger worldwide?",
+      "options": [
+        "Red Cross",
+        "World Food Programme (WFP)",
+        "UNICEF",
+        "Doctors Without Borders"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The UN World Food Programme provides food assistance to over 100 million people annually."
+    },
+    {
+      "id": "history_100",
+      "question": "In what year was the euro physical currency notes and coins introduced into circulation?",
+      "options": [
+        "1999",
+        "2000",
+        "2002",
+        "2004"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Euro banknotes and coins officially entered public circulation across 12 nations on January 1, 2002."
+    },
+    {
+      "id": "history_101",
+      "question": "What is the world's largest salt flat, located in southwestern Bolivia?",
+      "options": [
+        "Salar de Atacama",
+        "Salar de Uyuni",
+        "Bonneville Salt Flats",
+        "Etosha Pan"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Salar de Uyuni covers over 10,500 square kilometers and holds vast reserves of lithium."
+    },
+    {
+      "id": "history_102",
+      "question": "Which body of water has a surface and shore that is Earth's lowest elevation on land?",
+      "options": [
+        "Lake Assal",
+        "Death Valley",
+        "Dead Sea",
+        "Caspian Sea"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Dead Sea shores sit about 430 meters (1,410 feet) below sea level."
+    },
+    {
+      "id": "history_103",
+      "question": "What is the driest non-polar desert on Earth, located in northern Chile?",
+      "options": [
+        "Mojave Desert",
+        "Atacama Desert",
+        "Namib Desert",
+        "Sonoran Desert"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Parts of the Atacama Desert have had no recorded rainfall for centuries."
+    },
+    {
+      "id": "history_104",
+      "question": "Which strait separates the southern tip of South America from Antarctica?",
+      "options": [
+        "Magellan Strait",
+        "Drake Passage",
+        "Beagle Channel",
+        "Cook Strait"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Drake Passage connects the Atlantic and Pacific oceans through notoriously rough waters."
+    },
+    {
+      "id": "history_105",
+      "question": "What is the largest inland sea (often termed a saltwater lake) on Earth by area?",
+      "options": [
+        "Black Sea",
+        "Caspian Sea",
+        "Aral Sea",
+        "Mediterranean Sea"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Caspian Sea covers roughly 371,000 square kilometers between Europe and Asia."
+    },
+    {
+      "id": "history_106",
+      "question": "What is the name of the active stratovolcano that forms the highest peak in Japan?",
+      "options": [
+        "Mount Fuji",
+        "Mount Aso",
+        "Mount Ontake",
+        "Mount Unzen"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Mount Fuji stands at 3,776 meters and is a sacred UNESCO Cultural World Heritage site."
+    },
+    {
+      "id": "history_107",
+      "question": "Which European capital city is built on an archipelago of 14 islands connected by over 50 bridges?",
+      "options": [
+        "Venice",
+        "Amsterdam",
+        "Stockholm",
+        "Copenhagen"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Stockholm, capital of Sweden, is situated across Lake Mälaren and the Baltic Sea."
+    },
+    {
+      "id": "history_108",
+      "question": "What is the most populous city in the world by urban metropolitan area?",
+      "options": [
+        "New York City",
+        "Shanghai",
+        "Tokyo",
+        "Delhi"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Greater Tokyo Area encompasses over 37 million residents."
+    },
+    {
+      "id": "history_109",
+      "question": "Which canal connects the Mediterranean Sea directly to the Red Sea, opening in 1869?",
+      "options": [
+        "Panama Canal",
+        "Suez Canal",
+        "Kiel Canal",
+        "Corinth Canal"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ferdinand de Lesseps supervised construction of the 193-kilometer Suez Canal in Egypt."
+    },
+    {
+      "id": "history_110",
+      "question": "What country has the most time zones, counting all overseas territories?",
+      "options": [
+        "Russia",
+        "United States",
+        "France",
+        "China"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "France spans 12 different time zones across its mainland and global overseas territories."
+    }
+  ]
+}

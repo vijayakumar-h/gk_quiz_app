@@ -1,0 +1,1330 @@
+{
+  "id": "sports",
+  "name": "Sports & Games",
+  "description": "From football to chess, challenge yourself with athletic and strategy trivia across 11 levels.",
+  "icon": "sports_soccer",
+  "primaryColor": 4294201630,
+  "accentColor": 4294937189,
+  "questions": [
+    {
+      "id": "sports_1",
+      "question": "How many players are on the field for one team during a regulation football (soccer) match?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A team consists of 11 players including 1 goalkeeper on the field."
+    },
+    {
+      "id": "sports_2",
+      "question": "Which country won the inaugural FIFA Men's World Cup in 1930?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Uruguay",
+        "Italy"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Uruguay hosted the tournament and defeated Argentina 4-2 in the final in Montevideo."
+    },
+    {
+      "id": "sports_3",
+      "question": "How long is a standard professional football match excluding extra time and stoppage time?",
+      "options": [
+        "80 minutes",
+        "90 minutes",
+        "100 minutes",
+        "120 minutes"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A match consists of two 45-minute halves totaling 90 minutes of regulation play."
+    },
+    {
+      "id": "sports_4",
+      "question": "Which country has won the FIFA Men's World Cup the most times?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Argentina",
+        "Brazil"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Brazil has won the World Cup five times (1958, 1962, 1970, 1994, 2002)."
+    },
+    {
+      "id": "sports_5",
+      "question": "From what distance is a standard soccer penalty kick taken from the goal line?",
+      "options": [
+        "10 yards",
+        "12 yards (11 meters)",
+        "15 yards",
+        "18 yards"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The penalty spot is precisely 12 yards (10.97 meters) from the center of the goal line."
+    },
+    {
+      "id": "sports_6",
+      "question": "Who was the Brazilian football legend who won three FIFA World Cups (1958, 1962, 1970)?",
+      "options": [
+        "Zico",
+        "Romário",
+        "Pelé",
+        "Ronaldo Nazário"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Pelé (Edson Arantes do Nascimento) is the only player in history to win three World Cups."
+    },
+    {
+      "id": "sports_7",
+      "question": "Which club has won the UEFA Champions League / European Cup the most times?",
+      "options": [
+        "Bayern Munich",
+        "AC Milan",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Real Madrid has won the European title a record 15 times."
+    },
+    {
+      "id": "sports_8",
+      "question": "What color card does a referee show to immediately expel a player from a match?",
+      "options": [
+        "Yellow Card",
+        "Red Card",
+        "Blue Card",
+        "Black Card"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A red card results in the player being sent off and the team playing down a player."
+    },
+    {
+      "id": "sports_9",
+      "question": "Which Argentine legend captained his nation to World Cup victory in Mexico 1986 and Qatar 2022 respectively?",
+      "options": [
+        "Diego Maradona and Lionel Messi",
+        "Mario Kempes and Sergio Agüero",
+        "Gabriel Batistuta and Javier Zanetti",
+        "Alfredo Di Stéfano and Juan Román Riquelme"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Maradona inspired Argentina in 1986, while Messi captained the triumph in Qatar 2022."
+    },
+    {
+      "id": "sports_10",
+      "question": "What is it called when a single player scores three goals in a single football match?",
+      "options": [
+        "Brace",
+        "Hat-trick",
+        "Poker",
+        "Triple Crown"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Scoring three goals in one game by an individual player is known as a hat-trick."
+    },
+    {
+      "id": "sports_11",
+      "question": "How many legal deliveries are bowled in a single standard over in cricket?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "An over consists of six consecutive legal balls delivered by the same bowler."
+    },
+    {
+      "id": "sports_12",
+      "question": "What is the exact length of a cricket pitch between the wickets?",
+      "options": [
+        "18 yards",
+        "20 yards",
+        "22 yards",
+        "24 yards"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The cricket pitch is a rectangular area 22 yards (20.12 meters or 1 chain) long."
+    },
+    {
+      "id": "sports_13",
+      "question": "Which Australian batsman finished his Test career with a legendary batting average of 99.94?",
+      "options": [
+        "Ricky Ponting",
+        "Sir Donald Bradman",
+        "Steve Waugh",
+        "Allan Border"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Donald Bradman's Test batting average of 99.94 remains one of sport's greatest statistical achievements."
+    },
+    {
+      "id": "sports_14",
+      "question": "In what year was the first Men's Cricket World Cup (Prudential Cup) held in England?",
+      "options": [
+        "1971",
+        "1975",
+        "1979",
+        "1983"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The West Indies won the inaugural World Cup at Lord's in London in 1975."
+    },
+    {
+      "id": "sports_15",
+      "question": "What does the cricket umpiring abbreviation 'LBW' stand for?",
+      "options": [
+        "Leg Before Wicket",
+        "Long Boundary Wicket",
+        "Late Bouncer Wide",
+        "Line Behind Wicket"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Leg Before Wicket occurs when the ball strikes the batsman's leg or pad preventing it from hitting the stumps."
+    },
+    {
+      "id": "sports_16",
+      "question": "How many total players are on the field during play in cricket?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "There are 13 players on the field: 11 fielding team members plus 2 batsmen."
+    },
+    {
+      "id": "sports_17",
+      "question": "Which bowler holds the world record for the most wickets taken in Test cricket (800 wickets)?",
+      "options": [
+        "Shane Warne",
+        "Muttiah Muralitharan",
+        "James Anderson",
+        "Anil Kumble"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sri Lankan spin maestro Muttiah Muralitharan took 800 wickets in 133 Test matches."
+    },
+    {
+      "id": "sports_18",
+      "question": "What is the famous biennial Test cricket series contested between England and Australia called?",
+      "options": [
+        "The Ashes",
+        "Border-Gavaskar Trophy",
+        "Wisden Trophy",
+        "Trans-Tasman Cup"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Ashes urn originated in 1882 after a mock obituary stated English cricket had died at the Oval."
+    },
+    {
+      "id": "sports_19",
+      "question": "What is it called when a batsman is dismissed on the very first ball they face?",
+      "options": [
+        "Duck",
+        "Golden Duck",
+        "Diamond Duck",
+        "Silver Duck"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Getting out for zero on the first delivery faced is known as a golden duck."
+    },
+    {
+      "id": "sports_20",
+      "question": "In standard T20 cricket, how many overs does each side bat for?",
+      "options": [
+        "10 overs",
+        "15 overs",
+        "20 overs",
+        "25 overs"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Twenty20 cricket limits each team to a single innings of maximum 20 overs."
+    },
+    {
+      "id": "sports_21",
+      "question": "In tennis scoring, what traditional term denotes a score of zero?",
+      "options": [
+        "Nil",
+        "Love",
+        "Deuce",
+        "Fault"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Love is thought to originate from the French word 'l'oeuf' (the egg), resembling a zero."
+    },
+    {
+      "id": "sports_22",
+      "question": "Which four tournaments comprise the tennis 'Grand Slam'?",
+      "options": [
+        "Australian Open, French Open, Wimbledon, US Open",
+        "Wimbledon, Indian Wells, Miami Open, US Open",
+        "Davis Cup, ATP Finals, French Open, Wimbledon",
+        "Australian Open, Rome Masters, Wimbledon, US Open"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Winning all four major championships in a calendar year constitutes a Grand Slam."
+    },
+    {
+      "id": "sports_23",
+      "question": "On what surface is the prestigious Wimbledon Championships played?",
+      "options": [
+        "Red Clay",
+        "Hard Court (DecoTurf)",
+        "Grass",
+        "Carpet"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Wimbledon is the only major tennis tournament played on natural grass courts."
+    },
+    {
+      "id": "sports_24",
+      "question": "What score represents a tie at 40-40 in a tennis game?",
+      "options": [
+        "Deuce",
+        "Advantage",
+        "Tiebreak",
+        "Match Point"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "At deuce, a player must score two consecutive points (Advantage, then Game) to win."
+    },
+    {
+      "id": "sports_25",
+      "question": "Who holds the all-time record for the most Men's Grand Slam singles titles in tennis?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Novak Djokovic has won 24 Grand Slam singles titles."
+    },
+    {
+      "id": "sports_26",
+      "question": "Which female tennis player won 23 Grand Slam singles titles in the Open Era?",
+      "options": [
+        "Steffi Graf",
+        "Serena Williams",
+        "Martina Navratilova",
+        "Chris Evert"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Serena Williams won 23 major singles titles between 1999 and 2017."
+    },
+    {
+      "id": "sports_27",
+      "question": "What is the projectile used in the sport of badminton called?",
+      "options": [
+        "Shuttlecock (Birdie)",
+        "Puck",
+        "Squash Ball",
+        "Pelota"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A shuttlecock has a cork base embedded with 16 overlapping goose or duck feathers."
+    },
+    {
+      "id": "sports_28",
+      "question": "What is the maximum allowed number of bounces the ball can make on a side in table tennis before being struck?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The ball must bounce exactly once on the receiver's court before being returned."
+    },
+    {
+      "id": "sports_29",
+      "question": "What Grand Slam tournament is famously played on red clay at Roland-Garros in Paris?",
+      "options": [
+        "Wimbledon",
+        "US Open",
+        "French Open",
+        "Australian Open"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The French Open (Internationaux de France) is played on slow red clay courts."
+    },
+    {
+      "id": "sports_30",
+      "question": "What is a tennis serve called that hits the court legally without the receiver touching it?",
+      "options": [
+        "Ace",
+        "Smash",
+        "Volley",
+        "Drop Shot"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "An ace is a legal serve that touches inside the service box and isn't touched by the receiver."
+    },
+    {
+      "id": "sports_31",
+      "question": "How many players from each team are on the court at one time in a basketball game?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A standard basketball team plays with 5 players on the court (two guards, two forwards, one center)."
+    },
+    {
+      "id": "sports_32",
+      "question": "Who invented the game of basketball in Springfield, Massachusetts, in December 1891?",
+      "options": [
+        "James Naismith",
+        "Alexander Cartwright",
+        "Walter Camp",
+        "William G. Morgan"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dr. James Naismith nailed peach baskets to the gymnasium balcony railings to create the sport."
+    },
+    {
+      "id": "sports_33",
+      "question": "How many seconds does an NBA team have on the shot clock to attempt a field goal?",
+      "options": [
+        "14 seconds",
+        "20 seconds",
+        "24 seconds",
+        "30 seconds"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The NBA introduced the 24-second shot clock in 1954 to speed up game pace."
+    },
+    {
+      "id": "sports_34",
+      "question": "Which NBA superstar led the Chicago Bulls to six championships in the 1990s?",
+      "options": [
+        "Kobe Bryant",
+        "Magic Johnson",
+        "Michael Jordan",
+        "Shaquille O'Neal"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Michael Jordan won six NBA Finals MVP awards with the Bulls (1991-1993, 1996-1998)."
+    },
+    {
+      "id": "sports_35",
+      "question": "How many points is a free throw worth in basketball?",
+      "options": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "An uncontested free throw shot from behind the free-throw line awards 1 point."
+    },
+    {
+      "id": "sports_36",
+      "question": "What is the height of a regulation basketball hoop rim above the gym floor?",
+      "options": [
+        "9 feet (2.74 m)",
+        "10 feet (3.05 m)",
+        "11 feet (3.35 m)",
+        "12 feet (3.66 m)"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A regulation basketball rim is suspended exactly 10 feet (3.05 meters) above the court."
+    },
+    {
+      "id": "sports_37",
+      "question": "Who holds the all-time scoring record in NBA history, surpassing Kareem Abdul-Jabbar in 2023?",
+      "options": [
+        "Michael Jordan",
+        "Kobe Bryant",
+        "LeBron James",
+        "Stephen Curry"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "LeBron James broke the record on February 7, 2023, scoring over 40,000 career points."
+    },
+    {
+      "id": "sports_38",
+      "question": "Which NBA player is celebrated as the greatest 3-point shooter in history, holding the all-time 3-point record?",
+      "options": [
+        "Ray Allen",
+        "Reggie Miller",
+        "Stephen Curry",
+        "Klay Thompson"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Steph Curry revolutionized the sport with his prolific three-point shooting for the Golden State Warriors."
+    },
+    {
+      "id": "sports_39",
+      "question": "What is it called when a player records double digits in three statistical categories in a single game?",
+      "options": [
+        "Double-Double",
+        "Triple-Double",
+        "Grand Slam",
+        "Hat-trick"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A triple-double occurs when a player reaches 10+ in points, rebounds, and assists (or blocks/steals)."
+    },
+    {
+      "id": "sports_40",
+      "question": "How long is each quarter in a standard NBA game?",
+      "options": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An NBA game consists of four 12-minute quarters totaling 48 minutes (FIBA uses 10-minute quarters)."
+    },
+    {
+      "id": "sports_41",
+      "question": "In which country were the Ancient Olympic Games originally celebrated?",
+      "options": [
+        "Italy",
+        "Egypt",
+        "Greece",
+        "Persia"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The ancient games were held every four years in Olympia in honor of Zeus from 776 BCE."
+    },
+    {
+      "id": "sports_42",
+      "question": "In which city were the first modern Olympic Games held in 1896?",
+      "options": [
+        "Paris",
+        "London",
+        "Athens",
+        "Rome"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Pierre de Coubertin founded the IOC and revived the Olympic Games in Athens in April 1896."
+    },
+    {
+      "id": "sports_43",
+      "question": "How many interlocking rings are featured on the official Olympic flag?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The five interlocking rings (blue, yellow, black, green, red) represent the five inhabited continents."
+    },
+    {
+      "id": "sports_44",
+      "question": "Who holds the all-time record for the most Olympic gold medals won by any athlete (23 golds)?",
+      "options": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Michael Phelps",
+        "Larisa Latynina"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "American swimmer Michael Phelps won 23 gold medals (28 medals overall) across five Olympic Games."
+    },
+    {
+      "id": "sports_45",
+      "question": "Which Jamaican sprinter set the world records in the 100m (9.58s) and 200m (19.19s)?",
+      "options": [
+        "Tyson Gay",
+        "Usain Bolt",
+        "Asafa Powell",
+        "Yohan Blake"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Usain Bolt set both enduring sprint world records at the World Championships in Berlin in August 2009."
+    },
+    {
+      "id": "sports_46",
+      "question": "How often are the Summer Olympic Games normally held?",
+      "options": [
+        "Every 2 years",
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Olympic Games are traditionally held every four years (an Olympiad)."
+    },
+    {
+      "id": "sports_47",
+      "question": "What Olympic symbol is lit in Olympia, Greece, and carried by relay to the host city?",
+      "options": [
+        "Olympic Torch / Flame",
+        "Olympic Laurel",
+        "Golden Javelin",
+        "Sacred Olive"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Olympic flame is kindled by parabolic mirror at the Temple of Hera in Olympia."
+    },
+    {
+      "id": "sports_48",
+      "question": "Which city has hosted the Summer Olympic Games three times (1908, 1948, 2012)?",
+      "options": [
+        "Paris",
+        "London",
+        "Tokyo",
+        "Los Angeles"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "London was the first city to host the modern Summer Olympic Games three times."
+    },
+    {
+      "id": "sports_49",
+      "question": "What sport features events like balance beam, uneven bars, vault, and floor exercise?",
+      "options": [
+        "Gymnastics",
+        "Diving",
+        "Synchronized Swimming",
+        "Figure Skating"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Women's artistic gymnastics includes these four apparatus disciplines."
+    },
+    {
+      "id": "sports_50",
+      "question": "In the ancient Olympics, what was the winner of an event crowned with?",
+      "options": [
+        "Gold Medal",
+        "Laurel / Olive Wreath",
+        "Silver Chalice",
+        "Bronze Shield"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Victors at Olympia were crowned with an olive wreath (kotinos) cut from a sacred tree."
+    },
+    {
+      "id": "sports_51",
+      "question": "How many total squares are on a standard tournament chessboard?",
+      "options": [
+        "48",
+        "64",
+        "81",
+        "100"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A chessboard features an 8x8 grid of 64 alternating light and dark squares."
+    },
+    {
+      "id": "sports_52",
+      "question": "What is the only chess piece that can jump over other pieces on the board?",
+      "options": [
+        "Bishop",
+        "Rook",
+        "Knight",
+        "Queen"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Knight moves in an 'L' shape (two squares one way, then one square perpendicular) and can leap over pieces."
+    },
+    {
+      "id": "sports_53",
+      "question": "Which piece in chess has the greatest freedom of movement, combining the powers of rook and bishop?",
+      "options": [
+        "King",
+        "Queen",
+        "Knight",
+        "Pawn"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Queen can move any number of vacant squares in any direction: horizontal, vertical, or diagonal."
+    },
+    {
+      "id": "sports_54",
+      "question": "What special move allows the King and a Rook to move simultaneously in chess?",
+      "options": [
+        "En Passant",
+        "Castling",
+        "Promotion",
+        "Fianchetto"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Castling helps safeguard the king while activating the rook into the center."
+    },
+    {
+      "id": "sports_55",
+      "question": "What is the term for a situation in chess where a player's king is in check with no legal move to escape?",
+      "options": [
+        "Stalemate",
+        "Checkmate",
+        "Perpetual Check",
+        "Draw"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Checkmate ends the game immediately as a win for the attacking player."
+    },
+    {
+      "id": "sports_56",
+      "question": "What happens in chess if a player has no legal moves and their king is NOT in check?",
+      "options": [
+        "Checkmate",
+        "Stalemate (Draw)",
+        "Resignation",
+        "Time Forfeit"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Stalemate occurs when the player to move has no legal move and is not in check, resulting in a draw."
+    },
+    {
+      "id": "sports_57",
+      "question": "Who was the Russian grandmaster who held the World Chess Championship title from 1985 to 2000?",
+      "options": [
+        "Anatoly Karpov",
+        "Garry Kasparov",
+        "Boris Spassky",
+        "Mikhail Tal"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Kasparov became the youngest undisputed World Champion in 1985 at age 22."
+    },
+    {
+      "id": "sports_58",
+      "question": "Which Norwegian chess prodigy became World Chess Champion in 2013 and held the highest FIDE rating ever (2882)?",
+      "options": [
+        "Hikaru Nakamura",
+        "Magnus Carlsen",
+        "Fabiano Caruana",
+        "Viswanathan Anand"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Magnus Carlsen won five classical World Championships and reached a peak rating of 2882."
+    },
+    {
+      "id": "sports_59",
+      "question": "What is the special pawn capture rule that translates from French as 'in passing'?",
+      "options": [
+        "Fianchetto",
+        "En Passant",
+        "Zugzwang",
+        "Zwischenzug"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "En passant permits a pawn to capture an opponent's pawn that advanced two squares past it."
+    },
+    {
+      "id": "sports_60",
+      "question": "What international governing body oversees world chess ratings and championships?",
+      "options": [
+        "FIFA",
+        "FIDE",
+        "IOC",
+        "WADA"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "FIDE (Fédération Internationale des Échecs) was founded in Paris in 1924."
+    },
+    {
+      "id": "sports_61",
+      "question": "How many innings make up a standard professional Major League Baseball (MLB) game?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A regulation baseball game consists of nine innings unless tied or shortened by weather."
+    },
+    {
+      "id": "sports_62",
+      "question": "In American football, how many points is an uncontested touchdown worth?",
+      "options": [
+        "3 points",
+        "6 points",
+        "7 points",
+        "8 points"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A touchdown is worth 6 points, followed by an extra point attempt (1 point kick) or 2-point conversion."
+    },
+    {
+      "id": "sports_63",
+      "question": "How many players from each team are on the field at once in American football?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Each side fields 11 players during an American football play."
+    },
+    {
+      "id": "sports_64",
+      "question": "Which legendary New York Yankees slugger was known as 'The Sultan of Swat'?",
+      "options": [
+        "Lou Gehrig",
+        "Babe Ruth",
+        "Joe DiMaggio",
+        "Mickey Mantle"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Babe Ruth hit 714 career home runs and transformed American baseball in the 1920s."
+    },
+    {
+      "id": "sports_65",
+      "question": "What is the championship game of the National Football League (NFL) called?",
+      "options": [
+        "World Series",
+        "Super Bowl",
+        "Grey Cup",
+        "Stanley Cup"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Super Bowl is the annual championship game of the NFL, watched by over 100 million viewers."
+    },
+    {
+      "id": "sports_66",
+      "question": "How many bases are there on a standard baseball diamond including home plate?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The bases are First, Second, Third, and Home Plate, arranged in a 90-foot diamond."
+    },
+    {
+      "id": "sports_67",
+      "question": "In American football, what position primarily receives the snap and passes or handoffs the ball?",
+      "options": [
+        "Running Back",
+        "Wide Receiver",
+        "Quarterback",
+        "Tight End"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The quarterback is the offensive leader who orchestrates play calls and passes."
+    },
+    {
+      "id": "sports_68",
+      "question": "What is it called when a baseball batter hits the ball over the outfield fence in fair territory?",
+      "options": [
+        "Home Run",
+        "Bunt",
+        "Stolen Base",
+        "Sacrifice Fly"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A home run allows the batter and all runners on base to score safely."
+    },
+    {
+      "id": "sports_69",
+      "question": "How many strikes result in a strikeout for a batter in baseball?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Three strikes result in a strikeout, retiring the batter."
+    },
+    {
+      "id": "sports_70",
+      "question": "How many yards must an American football offense gain within four downs to earn a fresh set of downs?",
+      "options": [
+        "5 yards",
+        "10 yards",
+        "15 yards",
+        "20 yards"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Gaining 10 yards earns a 'First Down' and restarts the 4-down counter."
+    },
+    {
+      "id": "sports_71",
+      "question": "What prestigious Formula 1 street circuit race winds through the narrow streets of Monte Carlo?",
+      "options": [
+        "British Grand Prix",
+        "Monaco Grand Prix",
+        "Italian Grand Prix",
+        "Spa-Francorchamps"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Monaco Grand Prix has been held since 1929 and is part of the Triple Crown of Motorsport."
+    },
+    {
+      "id": "sports_72",
+      "question": "Which British racing driver has won 7 Formula 1 World Drivers' Championships, tied with Michael Schumacher?",
+      "options": [
+        "Sebastian Vettel",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Fernando Alonso"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Lewis Hamilton won championships in 2008, 2014, 2015, 2017, 2018, 2019, and 2020."
+    },
+    {
+      "id": "sports_73",
+      "question": "What famous 24-hour endurance sports car race is held annually near the town of Le Mans, France?",
+      "options": [
+        "24 Hours of Daytona",
+        "24 Hours of Le Mans",
+        "Nürburgring 24",
+        "Bathurst 1000"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The 24 Hours of Le Mans has tested mechanical reliability and driver endurance since 1923."
+    },
+    {
+      "id": "sports_74",
+      "question": "What flag is waved at the finish line to signify the conclusion of an auto race?",
+      "options": [
+        "Green Flag",
+        "Yellow Flag",
+        "Checkered Flag",
+        "Red Flag"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The black-and-white checkered flag signals that the winner has crossed the finish line."
+    },
+    {
+      "id": "sports_75",
+      "question": "Which Italian racing team is the oldest surviving and most successful team in Formula 1 history?",
+      "options": [
+        "McLaren",
+        "Scuderia Ferrari",
+        "Williams",
+        "Mercedes-AMG"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ferrari has competed in every World Championship season since the inaugural 1950 championship."
+    },
+    {
+      "id": "sports_76",
+      "question": "What famous American open-wheel automobile race is held annually at the Indianapolis Motor Speedway on Memorial Day weekend?",
+      "options": [
+        "Daytona 500",
+        "Indianapolis 500",
+        "Coca-Cola 600",
+        "Bristol Night Race"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The 'Indy 500' runs 200 laps over a 2.5-mile oval circuit, totaling 500 miles."
+    },
+    {
+      "id": "sports_77",
+      "question": "In Formula 1, what does 'DRS' stand for?",
+      "options": [
+        "Direct Racing System",
+        "Drag Reduction System",
+        "Dynamic Rate Steering",
+        "Digital Radar Sensor"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Drag Reduction System opens a flap in the rear wing to reduce aerodynamic drag for overtaking."
+    },
+    {
+      "id": "sports_78",
+      "question": "Who was the Brazilian Formula 1 triple World Champion beloved for his mastery in wet conditions?",
+      "options": [
+        "Nelson Piquet",
+        "Ayrton Senna",
+        "Emerson Fittipaldi",
+        "Felipe Massa"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ayrton Senna won world titles in 1988, 1990, and 1991 before his tragic crash at Imola in 1994."
+    },
+    {
+      "id": "sports_79",
+      "question": "What is the top stock car racing series organization in the United States?",
+      "options": [
+        "IndyCar",
+        "NASCAR",
+        "IMSA",
+        "NHRA"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The National Association for Stock Car Auto Racing (NASCAR) was founded by Bill France Sr. in 1948."
+    },
+    {
+      "id": "sports_80",
+      "question": "What safety device made of titanium is mounted above the cockpit of modern F1 cars to protect the driver's head?",
+      "options": [
+        "Roll Cage",
+        "Halo",
+        "Aeroscreen",
+        "Windshield"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Halo was introduced in F1 in 2018 and has prevented serious head injuries in high-speed crashes."
+    },
+    {
+      "id": "sports_81",
+      "question": "Who famously proclaimed 'Float like a butterfly, sting like a bee' and won the world heavyweight boxing championship three times?",
+      "options": [
+        "Mike Tyson",
+        "Muhammad Ali",
+        "Joe Frazier",
+        "George Foreman"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Muhammad Ali (Cassius Clay) was one of the most celebrated cultural and athletic figures of the 20th century."
+    },
+    {
+      "id": "sports_82",
+      "question": "In which country did the martial art of Judo originate under founder Jigoro Kano?",
+      "options": [
+        "China",
+        "Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Jigoro Kano developed Judo in Japan in 1882 from traditional jujutsu schools."
+    },
+    {
+      "id": "sports_83",
+      "question": "What is the maximum duration of a single round in professional men's boxing championship bouts?",
+      "options": [
+        "2 minutes",
+        "3 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Professional championship boxing rounds last 3 minutes with 1-minute rest periods in between."
+    },
+    {
+      "id": "sports_84",
+      "question": "In martial arts like Karate and Taekwondo, what color belt universally represents the highest standard student rank before master grades?",
+      "options": [
+        "Yellow Belt",
+        "Green Belt",
+        "Brown Belt",
+        "Black Belt"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "A black belt signifies competent mastery of fundamental techniques and principles."
+    },
+    {
+      "id": "sports_85",
+      "question": "What Korean martial art is known for its emphasis on head-height kicks, jumping spinning kicks, and fast kicking techniques?",
+      "options": [
+        "Judo",
+        "Taekwondo",
+        "Aikido",
+        "Muay Thai"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Taekwondo developed in Korea during the 1940s and became an official Olympic medal sport in 2000."
+    },
+    {
+      "id": "sports_86",
+      "question": "What shape is the fenced fighting enclosure used by the Ultimate Fighting Championship (UFC)?",
+      "options": [
+        "Square Ring",
+        "Circle",
+        "Octagon",
+        "Hexagon"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The trademarked UFC Octagon has eight padded sides enclosed by vinyl-coated chain-link fence."
+    },
+    {
+      "id": "sports_87",
+      "question": "What is the traditional Japanese national sport of heavyweight wrestling called?",
+      "options": [
+        "Kendo",
+        "Sumo",
+        "Karate",
+        "Aikido"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sumo wrestlers (rikishi) attempt to force opponents out of a circular ring (dohyo)."
+    },
+    {
+      "id": "sports_88",
+      "question": "What martial art known as 'The Art of Eight Limbs' utilizes punches, kicks, elbows, and knee strikes?",
+      "options": [
+        "Krav Maga",
+        "Muay Thai",
+        "Capoeira",
+        "Sambo"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Muay Thai is the national combat sport of Thailand utilizing eight points of contact."
+    },
+    {
+      "id": "sports_89",
+      "question": "Which undefeated boxer retired with a perfect professional record of 50 wins and 0 losses?",
+      "options": [
+        "Manny Pacquiao",
+        "Floyd Mayweather Jr.",
+        "Sugar Ray Leonard",
+        "Oscar De La Hoya"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mayweather retired with a 50-0 record across five weight classes."
+    },
+    {
+      "id": "sports_90",
+      "question": "What Brazilian grappling martial art focuses on ground fighting and submission holds, developed by the Gracie family?",
+      "options": [
+        "Brazilian Jiu-Jitsu (BJJ)",
+        "Luta Livre",
+        "Vale Tudo",
+        "Capoeira"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "BJJ emphasizes leverage and technique to enable smaller practitioners to submit larger opponents."
+    },
+    {
+      "id": "sports_91",
+      "question": "What is the official distance of a standard athletic marathon race?",
+      "options": [
+        "20 miles",
+        "26 miles 385 yards (42.195 km)",
+        "30 miles",
+        "50 km"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The marathon distance was standardized at 42.195 km at the 1908 London Olympic Games."
+    },
+    {
+      "id": "sports_92",
+      "question": "How many events are contested in a men's track and field decathlon?",
+      "options": [
+        "7 events",
+        "8 events",
+        "10 events",
+        "12 events"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A decathlon comprises 10 track and field events held across two consecutive days."
+    },
+    {
+      "id": "sports_93",
+      "question": "Which four strokes are contested in competitive swimming and the individual medley?",
+      "options": [
+        "Freestyle, Backstroke, Breaststroke, Butterfly",
+        "Dog paddle, Freestyle, Breaststroke, Sidestroke",
+        "Backstroke, Butterfly, Sidestroke, Crawl",
+        "Breaststroke, Butterfly, Sculling, Freestyle"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The four competitive swimming strokes are butterfly, backstroke, breaststroke, and freestyle."
+    },
+    {
+      "id": "sports_94",
+      "question": "What is the vulcanized rubber disc used in ice hockey instead of a ball called?",
+      "options": [
+        "Puck",
+        "Shuttle",
+        "Stone",
+        "Pellet"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "An ice hockey puck is 1 inch thick, 3 inches in diameter, and weighs between 5.5 and 6 ounces."
+    },
+    {
+      "id": "sports_95",
+      "question": "In the winter sport of curling, what are the heavy granite projectiles slid across the ice sheet called?",
+      "options": [
+        "Pucks",
+        "Curling Stones (Rocks)",
+        "Bowls",
+        "Discs"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Curling stones are crafted from rare water-resistant granite quarried on the Scottish island of Ailsa Craig."
+    },
+    {
+      "id": "sports_96",
+      "question": "What is the length of an Olympic-sized swimming pool used for international competition?",
+      "options": [
+        "25 meters",
+        "50 meters",
+        "75 meters",
+        "100 meters"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An Olympic pool is 50 meters long, typically 25 meters wide with 10 lanes."
+    },
+    {
+      "id": "sports_97",
+      "question": "What track and field throwing event uses a spear-like metal implement?",
+      "options": [
+        "Discus",
+        "Shot Put",
+        "Javelin",
+        "Hammer Throw"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Athletes sprint along a runway before launching the javelin for maximum distance."
+    },
+    {
+      "id": "sports_98",
+      "question": "In which country were the first Winter Olympic Games held in 1924?",
+      "options": [
+        "Switzerland (St. Moritz)",
+        "France (Chamonix)",
+        "Norway (Oslo)",
+        "United States (Lake Placid)"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Chamonix hosted the inaugural Winter Olympics in January and February 1924."
+    },
+    {
+      "id": "sports_99",
+      "question": "In golf, what term describes completing a hole in one stroke under par?",
+      "options": [
+        "Eagle",
+        "Birdie",
+        "Bogey",
+        "Albatross"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A birdie is 1 stroke under par; an eagle is 2 strokes under par; a bogey is 1 over par."
+    },
+    {
+      "id": "sports_100",
+      "question": "What sport combines cross-country skiing and rifle marksmanship in the Winter Olympics?",
+      "options": [
+        "Biathlon",
+        "Nordic Combined",
+        "Skeleton",
+        "Luge"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Biathlon challenges athletes to maintain stamina during skiing while controlling heart rates for precision shooting."
+    },
+    {
+      "id": "sports_101",
+      "question": "Who was the first human to officially run a mile in under four minutes in May 1954?",
+      "options": [
+        "Roger Bannister",
+        "John Landy",
+        "Jesse Owens",
+        "Herb Elliott"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Sir Roger Bannister ran the historic sub-4-minute mile (3:59.4) at Oxford on May 6, 1954."
+    },
+    {
+      "id": "sports_102",
+      "question": "Which Romanian gymnast scored the first perfect 10.0 in Olympic gymnastics history at Montreal 1976?",
+      "options": [
+        "Olga Korbut",
+        "Nadia Comăneci",
+        "Mary Lou Retton",
+        "Simone Biles"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "14-year-old Nadia Comăneci was awarded seven perfect 10s at the 1976 Montreal Olympics."
+    },
+    {
+      "id": "sports_103",
+      "question": "Which African-American track star won four gold medals at the 1936 Berlin Olympics in front of Adolf Hitler?",
+      "options": [
+        "Jesse Owens",
+        "Ralph Metcalfe",
+        "Mack Robinson",
+        "Cornelius Johnson"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Jesse Owens won the 100m, 200m, long jump, and 4x100m relay, defying Nazi racial propaganda."
+    },
+    {
+      "id": "sports_104",
+      "question": "Who holds the record for the most total Olympic medals won by any gymnast (18 medals)?",
+      "options": [
+        "Simone Biles",
+        "Larisa Latynina",
+        "Věra Čáslavská",
+        "Nikolai Andrianov"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Soviet gymnast Larisa Latynina won 18 Olympic medals (9 gold, 5 silver, 4 bronze) between 1956 and 1964."
+    },
+    {
+      "id": "sports_105",
+      "question": "Who scored 100 points in a single NBA basketball game in March 1962 for the Philadelphia Warriors?",
+      "options": [
+        "Kareem Abdul-Jabbar",
+        "Wilt Chamberlain",
+        "Bill Russell",
+        "Elgin Baylor"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Wilt Chamberlain scored 100 points against the New York Knicks in Hershey, Pennsylvania."
+    },
+    {
+      "id": "sports_106",
+      "question": "In what year did Kenya's Eliud Kipchoge run the first sub-two-hour marathon (1:59:40.2) in Vienna?",
+      "options": [
+        "2016",
+        "2018",
+        "2019",
+        "2021"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Kipchoge broke the two-hour barrier in a specially orchestrated INEOS 1:59 Challenge in October 2019."
+    },
+    {
+      "id": "sports_107",
+      "question": "Which golfer holds the record for winning 18 Men's Major Championships?",
+      "options": [
+        "Tiger Woods",
+        "Jack Nicklaus",
+        "Arnold Palmer",
+        "Gary Player"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Jack Nicklaus ('The Golden Bear') won 18 majors between 1962 and 1986."
+    },
+    {
+      "id": "sports_108",
+      "question": "Who holds the record for the fastest goal in FIFA World Cup history (scored in 11 seconds in 2002)?",
+      "options": [
+        "Hakan Şükür",
+        "Clint Dempsey",
+        "Bryan Robson",
+        "Pelé"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Turkish striker Hakan Şükür scored against South Korea just 11 seconds after kickoff in 2002."
+    },
+    {
+      "id": "sports_109",
+      "question": "Who was the first woman to officially complete the Boston Marathon with a bib in 1967 despite race officials trying to stop her?",
+      "options": [
+        "Kathrine Switzer",
+        "Bobbi Gibb",
+        "Joan Benoit",
+        "Grete Waitz"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Kathrine Switzer finished the race with bib #261, breaking the barrier for women in distance running."
+    },
+    {
+      "id": "sports_110",
+      "question": "Which boxer delivered the iconic 'Rumble in the Jungle' knockout of George Foreman in Zaire in 1974?",
+      "options": [
+        "Joe Frazier",
+        "Muhammad Ali",
+        "Ken Norton",
+        "Larry Holmes"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Muhammad Ali employed the famous 'rope-a-dope' strategy to exhaust and defeat Foreman in Kinshasa."
+    }
+  ]
+}

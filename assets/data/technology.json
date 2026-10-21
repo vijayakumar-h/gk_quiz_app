@@ -1,0 +1,1330 @@
+{
+  "id": "technology",
+  "name": "Technology & Computing",
+  "description": "Test your knowledge on computers, algorithms, the internet, and gadgets across 11 levels.",
+  "icon": "memory",
+  "primaryColor": 4287505578,
+  "accentColor": 4290406600,
+  "questions": [
+    {
+      "id": "tech_1",
+      "question": "Who is widely regarded as the father of modern theoretical computer science and AI?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "John von Neumann",
+        "Claude Shannon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Alan Turing formalized concepts of computation with the Turing Machine and contributed to cryptanalysis at Bletchley Park."
+    },
+    {
+      "id": "tech_2",
+      "question": "What does 'HTTP' stand for in web network communications?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High-speed Traffic Transport Path",
+        "HyperText Transmission Parser",
+        "Host Terminal Tracking Protocol"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "HTTP is the foundational application protocol used for fetching web documents over the internet."
+    },
+    {
+      "id": "tech_3",
+      "question": "Which programming language was developed by Google and powers the Flutter framework?",
+      "options": [
+        "Go",
+        "Kotlin",
+        "Dart",
+        "Rust"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Dart is an object-oriented, client-optimized language created by Google for high-performance multi-platform apps."
+    },
+    {
+      "id": "tech_4",
+      "question": "In what year was the first Apple iPhone officially introduced by Steve Jobs?",
+      "options": [
+        "2005",
+        "2007",
+        "2009",
+        "2010"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Steve Jobs unveiled the original iPhone at Macworld in San Francisco on January 9, 2007."
+    },
+    {
+      "id": "tech_5",
+      "question": "What does the acronym 'GPU' stand for in computing hardware?",
+      "options": [
+        "General Processing Unit",
+        "Graphic Protocol Utility",
+        "Graphics Processing Unit",
+        "Grid Parallel Unit"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A GPU is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate graphics rendering and parallel compute."
+    },
+    {
+      "id": "tech_6",
+      "question": "What is the primary volatile memory used by a computer to hold data actively being processed?",
+      "options": [
+        "ROM",
+        "Hard Disk Drive",
+        "RAM",
+        "Cache SSD"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "RAM (Random Access Memory) provides high-speed read/write access to instructions and data currently in use."
+    },
+    {
+      "id": "tech_7",
+      "question": "What binary digits are used to represent all digital information in computers?",
+      "options": [
+        "0 and 1",
+        "1 and 2",
+        "-1 and +1",
+        "0 and 9"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Binary notation uses combinations of 0s and 1s representing electrical off/on states."
+    },
+    {
+      "id": "tech_8",
+      "question": "How many bits make up one standard byte?",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "One byte equals eight binary digits (bits), capable of holding 256 distinct values."
+    },
+    {
+      "id": "tech_9",
+      "question": "What is the fundamental purpose of an operating system (OS)?",
+      "options": [
+        "Design graphics",
+        "Manage computer hardware and software resources",
+        "Host websites",
+        "Compile machine code"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An OS acts as an intermediary between users/applications and computer hardware."
+    },
+    {
+      "id": "tech_10",
+      "question": "What does 'URL' stand for in web browsing?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Routing Link",
+        "Unified Request Language",
+        "Unique Resource Link"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A URL specifies the address and protocol used to access a resource on the web."
+    },
+    {
+      "id": "tech_11",
+      "question": "Who created the Python programming language in the late 1980s?",
+      "options": [
+        "Guido van Rossum",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Dennis Ritchie"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dutch programmer Guido van Rossum created Python, first released in 1991."
+    },
+    {
+      "id": "tech_12",
+      "question": "Which programming language is compiled into bytecode that runs on the Java Virtual Machine (JVM)?",
+      "options": [
+        "C++",
+        "Java",
+        "Ruby",
+        "Swift"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Java source code compiles into platform-independent `.class` bytecode executed by the JVM."
+    },
+    {
+      "id": "tech_13",
+      "question": "Who created the C programming language at Bell Laboratories in 1972?",
+      "options": [
+        "Dennis Ritchie",
+        "Ken Thompson",
+        "Brian Kernighan",
+        "Niklaus Wirth"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dennis Ritchie developed C to re-implement the Unix operating system."
+    },
+    {
+      "id": "tech_14",
+      "question": "What programming paradigm is centered on concepts such as classes, inheritance, and encapsulation?",
+      "options": [
+        "Functional programming",
+        "Object-Oriented Programming (OOP)",
+        "Procedural programming",
+        "Declarative programming"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "OOP organizes software design around data or objects, rather than functions and logic."
+    },
+    {
+      "id": "tech_15",
+      "question": "What standard language is used for managing and querying data stored in relational databases?",
+      "options": [
+        "HTML",
+        "SQL",
+        "CSS",
+        "JSON"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Structured Query Language (SQL) is the standard domain-specific language for relational database management."
+    },
+    {
+      "id": "tech_16",
+      "question": "Which language was created in 10 days by Brendan Eich in 1995 for Netscape Navigator?",
+      "options": [
+        "JavaScript",
+        "ActionScript",
+        "Perl",
+        "PHP"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Brendan Eich developed JavaScript (originally Mocha/LiveScript) in May 1995."
+    },
+    {
+      "id": "tech_17",
+      "question": "What modern systems programming language created by Mozilla emphasizes memory safety without a garbage collector?",
+      "options": [
+        "Go",
+        "Rust",
+        "Swift",
+        "Kotlin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Rust uses an ownership and borrow-checker model to guarantee memory safety at compile time."
+    },
+    {
+      "id": "tech_18",
+      "question": "What does 'API' stand for in software engineering?",
+      "options": [
+        "Application Programming Interface",
+        "Automated Program Integration",
+        "Applied Protocol Identifier",
+        "Advanced Performance Index"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "An API defines rules and specifications that allow different software programs to communicate with each other."
+    },
+    {
+      "id": "tech_19",
+      "question": "What data format uses key-value pairs and human-readable text derived from JavaScript object notation?",
+      "options": [
+        "XML",
+        "JSON",
+        "YAML",
+        "CSV"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "JSON (JavaScript Object Notation) is the dominant data interchange format in modern web APIs."
+    },
+    {
+      "id": "tech_20",
+      "question": "In software architecture, what does 'DRY' stand for?",
+      "options": [
+        "Direct Rapid Yield",
+        "Don't Repeat Yourself",
+        "Data Retrieval Yield",
+        "Dynamic Runtime Yield"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The DRY principle aims to reduce repetition of software patterns and logic."
+    },
+    {
+      "id": "tech_21",
+      "question": "Who is celebrated as the inventor of the World Wide Web at CERN in 1989?",
+      "options": [
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Marc Andreessen",
+        "Robert Kahn"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Tim Berners-Lee invented the World Wide Web, HTTP, HTML, and the first web browser."
+    },
+    {
+      "id": "tech_22",
+      "question": "What system translates human-friendly domain names (like google.com) into numerical IP addresses?",
+      "options": [
+        "DHCP",
+        "DNS",
+        "FTP",
+        "SNMP"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Domain Name System (DNS) acts as the phonebook of the internet."
+    },
+    {
+      "id": "tech_23",
+      "question": "What is the current standard format for IPv4 addresses?",
+      "options": [
+        "32-bit (4 numbers 0-255 separated by dots)",
+        "64-bit hexadecimal",
+        "128-bit alphanumeric",
+        "16-bit decimal"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "IPv4 uses 32-bit addresses written in dot-decimal notation, allowing ~4.3 billion unique IPs."
+    },
+    {
+      "id": "tech_24",
+      "question": "How many bits are used in an IPv6 address?",
+      "options": [
+        "32 bits",
+        "64 bits",
+        "128 bits",
+        "256 bits"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "IPv6 uses 128-bit addresses, providing an exponentially larger pool of 3.4 x 10^38 unique addresses."
+    },
+    {
+      "id": "tech_25",
+      "question": "What secure protocol encrypts communication between a web browser and a website?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "Telnet"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "HTTPS uses Transport Layer Security (TLS/SSL) to encrypt web traffic against eavesdropping."
+    },
+    {
+      "id": "tech_26",
+      "question": "What device directs network data packets between different computer networks?",
+      "options": [
+        "Switch",
+        "Router",
+        "Hub",
+        "Modem"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A router inspects destination IP addresses and forwards packets between networks."
+    },
+    {
+      "id": "tech_27",
+      "question": "What technology allows electronic devices to connect to a wireless local area network using radio waves?",
+      "options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Ethernet",
+        "NFC"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Wi-Fi is based on the IEEE 802.11 family of standards for wireless local networking."
+    },
+    {
+      "id": "tech_28",
+      "question": "What port number is standard for non-encrypted HTTP web traffic?",
+      "options": [
+        "Port 21",
+        "Port 22",
+        "Port 80",
+        "Port 443"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Port 80 is the default TCP port for HTTP; Port 443 is used for secure HTTPS."
+    },
+    {
+      "id": "tech_29",
+      "question": "What protocol is used for securely logging into and managing remote servers via a command-line terminal?",
+      "options": [
+        "FTP",
+        "SSH",
+        "SMTP",
+        "IMAP"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Secure Shell (SSH) provides cryptographic network protocol for remote terminal operations."
+    },
+    {
+      "id": "tech_30",
+      "question": "What does 'LAN' stand for in computer networking?",
+      "options": [
+        "Local Area Network",
+        "Logical Access Node",
+        "Large Array Network",
+        "Linked Application Network"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A LAN connects computers within a limited geographic area like a home, office, or school building."
+    },
+    {
+      "id": "tech_31",
+      "question": "What component is often called the 'brain' of a computer system?",
+      "options": [
+        "Motherboard",
+        "Central Processing Unit (CPU)",
+        "Hard Disk",
+        "Power Supply"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The CPU executes the instructions of computer programs and performs arithmetic and logic."
+    },
+    {
+      "id": "tech_32",
+      "question": "What empirical observation stated that the number of transistors on a microchip doubles roughly every two years?",
+      "options": [
+        "Amdahl's Law",
+        "Metcalfe's Law",
+        "Moore's Law",
+        "Wirth's Law"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Formulated by Intel co-founder Gordon Moore in 1965, Moore's Law guided semiconductor scaling for decades."
+    },
+    {
+      "id": "tech_33",
+      "question": "What microscopic semiconductor device acts as an electronic switch and amplifier in computer chips?",
+      "options": [
+        "Resistor",
+        "Capacitor",
+        "Transistor",
+        "Diode"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Transistors are the building blocks of modern microprocessors and memory chips."
+    },
+    {
+      "id": "tech_34",
+      "question": "Which computer memory is non-volatile and permanently contains startup instructions (BIOS/UEFI)?",
+      "options": [
+        "RAM",
+        "ROM",
+        "L1 Cache",
+        "Registers"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "ROM (Read-Only Memory) retains its stored contents even when the computer is turned off."
+    },
+    {
+      "id": "tech_35",
+      "question": "What modern solid-state storage device uses flash memory instead of spinning magnetic platters?",
+      "options": [
+        "HDD",
+        "SSD",
+        "CD-ROM",
+        "Magnetic Tape"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Solid State Drives (SSDs) offer significantly faster read/write speeds and greater shock resistance than mechanical HDDs."
+    },
+    {
+      "id": "tech_36",
+      "question": "What is the main printed circuit board connecting CPU, memory, and peripheral components?",
+      "options": [
+        "Graphics Card",
+        "Motherboard",
+        "Power Supply Unit",
+        "Sound Card"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The motherboard (system board) provides communication pathways (buses) between hardware components."
+    },
+    {
+      "id": "tech_37",
+      "question": "What type of ultrafast memory is built directly into the CPU chip to reduce latency?",
+      "options": [
+        "DRAM",
+        "Cache memory",
+        "Virtual memory",
+        "Flash ROM"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "SRAM cache (L1, L2, L3) sits directly on the CPU die to store frequently accessed data."
+    },
+    {
+      "id": "tech_38",
+      "question": "What interface standard is widely used to connect peripherals like keyboards, mice, and flash drives?",
+      "options": [
+        "USB",
+        "VGA",
+        "SCSI",
+        "Parallel Port"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Universal Serial Bus (USB) is the universal industry standard for digital peripherals."
+    },
+    {
+      "id": "tech_39",
+      "question": "What does 'clock speed' of a modern CPU measure?",
+      "options": [
+        "Internet download speed",
+        "The number of cycles the CPU executes per second",
+        "Physical temperature of the silicon",
+        "Total RAM capacity"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Clock speed (measured in gigahertz, GHz) reflects the frequency of CPU instruction cycles."
+    },
+    {
+      "id": "tech_40",
+      "question": "Which company designed the x86 microprocessor architecture that dominates personal computers?",
+      "options": [
+        "ARM",
+        "Intel",
+        "IBM",
+        "Motorola"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Intel introduced the x86 architecture with the 8086 processor in 1978."
+    },
+    {
+      "id": "tech_41",
+      "question": "Who created the open-source Linux kernel in 1991 while a university student in Helsinki?",
+      "options": [
+        "Richard Stallman",
+        "Linus Torvalds",
+        "Ken Thompson",
+        "Steve Wozniak"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Linus Torvalds announced Linux as a free operating system kernel for 386 computers in 1991."
+    },
+    {
+      "id": "tech_42",
+      "question": "What operating system created by Bell Labs in the 1960s inspired Linux and macOS?",
+      "options": [
+        "MS-DOS",
+        "Unix",
+        "OS/2",
+        "VMS"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Unix established core concepts like the hierarchical file system and modular command-line utilities."
+    },
+    {
+      "id": "tech_43",
+      "question": "What open-source operating system developed by Google powers billions of smartphones globally?",
+      "options": [
+        "iOS",
+        "Android",
+        "Symbian",
+        "Tizen"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Android is an open-source mobile OS based on a modified version of the Linux kernel."
+    },
+    {
+      "id": "tech_44",
+      "question": "Which operating system developed by Microsoft introduced the iconic 'Start' button in 1995?",
+      "options": [
+        "Windows 3.1",
+        "Windows 95",
+        "Windows XP",
+        "Windows 2000"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Windows 95 introduced the Start menu, taskbar, and integrated 32-bit architecture."
+    },
+    {
+      "id": "tech_45",
+      "question": "What is the core of an operating system that maintains complete control over the entire system?",
+      "options": [
+        "Kernel",
+        "Shell",
+        "Compiler",
+        "Driver"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The kernel manages system resources, process scheduling, memory allocation, and hardware communication."
+    },
+    {
+      "id": "tech_46",
+      "question": "What text-based interface allows users to communicate with the OS by typing commands?",
+      "options": [
+        "GUI",
+        "Command Line Interface (CLI / Shell)",
+        "Hypervisor",
+        "Desktop Manager"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A CLI (such as bash, zsh, or PowerShell) interprets typed commands to perform operations."
+    },
+    {
+      "id": "tech_47",
+      "question": "What open-source project founded by Richard Stallman in 1983 created free software tools for Unix-like systems?",
+      "options": [
+        "GNU Project",
+        "Apache Foundation",
+        "Linux Foundation",
+        "Eclipse Foundation"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "GNU ('GNU's Not Unix') provided the compilers, libraries, and utilities that pair with Linux."
+    },
+    {
+      "id": "tech_48",
+      "question": "What Unix-based core foundation powers Apple's macOS and iOS?",
+      "options": [
+        "Darwin",
+        "Solaris",
+        "FreeBSD",
+        "Red Hat"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Darwin is the open-source POSIX-compliant Unix operating system base of macOS and iOS."
+    },
+    {
+      "id": "tech_49",
+      "question": "What is the mechanism by which an OS temporarily stores inactive RAM data on the hard drive?",
+      "options": [
+        "Cache Thrashing",
+        "Virtual Memory / Paging",
+        "DMA",
+        "Defragmentation"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Virtual memory moves memory pages to disk (swap space) when physical RAM is exhausted."
+    },
+    {
+      "id": "tech_50",
+      "question": "What is the file system format natively used by modern Microsoft Windows operating systems?",
+      "options": [
+        "FAT32",
+        "NTFS",
+        "ext4",
+        "APFS"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "New Technology File System (NTFS) provides journaling, permissions, and file compression."
+    },
+    {
+      "id": "tech_51",
+      "question": "What open-source UI toolkit was launched by Google in 2017 to build natively compiled apps from a single codebase?",
+      "options": [
+        "Flutter",
+        "Xamarin",
+        "Ionic",
+        "Cordova"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Flutter compiles Dart code into native ARM/x64 machine code for iOS, Android, web, and desktop."
+    },
+    {
+      "id": "tech_52",
+      "question": "What is the official programming language recommended by Apple for building iOS and macOS apps since 2014?",
+      "options": [
+        "Objective-C",
+        "Swift",
+        "C#",
+        "Kotlin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Apple introduced Swift at WWDC 2014 to replace Objective-C with modern safety and syntax."
+    },
+    {
+      "id": "tech_53",
+      "question": "What modern language was announced by Google in 2017 as the preferred language for Android development?",
+      "options": [
+        "Java",
+        "Kotlin",
+        "Scala",
+        "Dart"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Kotlin, developed by JetBrains, offers conciseness, null-safety, and interoperability with Java."
+    },
+    {
+      "id": "tech_54",
+      "question": "What file extension is used for compiled Android application package files?",
+      "options": [
+        ".ipa",
+        ".apk",
+        ".dmg",
+        ".exe"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An Android Package Kit (APK) is the package file format used by Android to distribute and install apps."
+    },
+    {
+      "id": "tech_55",
+      "question": "What file format is used for iOS application archive bundles ready for installation?",
+      "options": [
+        ".apk",
+        ".ipa",
+        ".deb",
+        ".rpm"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An iOS App Store Package (.ipa) file is an iOS application archive."
+    },
+    {
+      "id": "tech_56",
+      "question": "In Flutter, what fundamental concept represents almost everything in the user interface?",
+      "options": [
+        "Fragments",
+        "Widgets",
+        "Controllers",
+        "Activities"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "In Flutter, 'everything is a widget'—from layout models (Padding, Row) to structural elements (Scaffold, Text)."
+    },
+    {
+      "id": "tech_57",
+      "question": "What cross-platform mobile framework developed by Meta (Facebook) uses JavaScript and React?",
+      "options": [
+        "React Native",
+        "Flutter",
+        "NativeScript",
+        "PhoneGap"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "React Native allows developers to build mobile apps using React and native platform UI primitives."
+    },
+    {
+      "id": "tech_58",
+      "question": "What package manager is standard for managing Dart and Flutter workspace packages?",
+      "options": [
+        "npm",
+        "pip",
+        "pub",
+        "gem"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The `pub` package manager and `pub.dev` repository host community libraries for Dart and Flutter."
+    },
+    {
+      "id": "tech_59",
+      "question": "What Flutter tool allows developers to view code changes instantly without restarting the app state?",
+      "options": [
+        "Hot Reload",
+        "JIT Compiler",
+        "Ahead-of-Time",
+        "Tree Shaking"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Stateful Hot Reload injects updated source code into the running Dart VM in under a second."
+    },
+    {
+      "id": "tech_60",
+      "question": "What tool is the official integrated development environment (IDE) for Android development by Google?",
+      "options": [
+        "Visual Studio",
+        "Android Studio",
+        "Xcode",
+        "Eclipse"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Android Studio is based on JetBrains IntelliJ IDEA software and configured specifically for Android."
+    },
+    {
+      "id": "tech_61",
+      "question": "What markup language provides the fundamental structure and content for all World Wide Web documents?",
+      "options": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "PHP"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "HyperText Markup Language (HTML) defines headings, paragraphs, links, and document structure."
+    },
+    {
+      "id": "tech_62",
+      "question": "What language is used for styling and visually formatting HTML web documents?",
+      "options": [
+        "CSS",
+        "SQL",
+        "JSON",
+        "Python"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Cascading Style Sheets (CSS) controls colors, fonts, layouts, and responsive design."
+    },
+    {
+      "id": "tech_63",
+      "question": "Which cloud computing service platform was launched by Amazon in 2006, leading the cloud market?",
+      "options": [
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Amazon Web Services (AWS)",
+        "IBM Cloud"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "AWS launched S3 and EC2 in 2006, establishing the modern public cloud computing model."
+    },
+    {
+      "id": "tech_64",
+      "question": "What version control system created by Linus Torvalds in 2005 is used by millions of developers?",
+      "options": [
+        "Subversion",
+        "Mercurial",
+        "Git",
+        "CVS"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Git is a distributed version control system designed for speed and non-linear workflows."
+    },
+    {
+      "id": "tech_65",
+      "question": "What popular web-based hosting platform for software development using Git was acquired by Microsoft in 2018?",
+      "options": [
+        "GitLab",
+        "Bitbucket",
+        "GitHub",
+        "SourceForge"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "GitHub hosts hundreds of millions of public and private code repositories."
+    },
+    {
+      "id": "tech_66",
+      "question": "What open-source containerization platform automates the deployment of apps in lightweight isolated packages?",
+      "options": [
+        "Kubernetes",
+        "Docker",
+        "Vagrant",
+        "OpenStack"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Docker packages applications and dependencies into standardized containers that run identically anywhere."
+    },
+    {
+      "id": "tech_67",
+      "question": "What container orchestration system was originally designed by Google before being donated to CNCF?",
+      "options": [
+        "Docker Swarm",
+        "Kubernetes",
+        "Apache Mesos",
+        "Nomad"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Kubernetes (K8s) automates deployment, scaling, and operational management of containerized workloads."
+    },
+    {
+      "id": "tech_68",
+      "question": "What architectural style uses HTTP requests to GET, POST, PUT, and DELETE data over web APIs?",
+      "options": [
+        "SOAP",
+        "REST",
+        "gRPC",
+        "GraphQL"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Representational State Transfer (REST) leverages standard HTTP verbs and stateless communication."
+    },
+    {
+      "id": "tech_69",
+      "question": "What does 'SaaS' stand for in cloud service models?",
+      "options": [
+        "Storage as a Service",
+        "Software as a Service",
+        "Security as a System",
+        "Server as a Standard"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Software as a Service delivers software applications over the internet on a subscription basis."
+    },
+    {
+      "id": "tech_70",
+      "question": "What JavaScript runtime environment built on Chrome's V8 engine enables running JS on servers?",
+      "options": [
+        "Node.js",
+        "Deno",
+        "Electron",
+        "Angular"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ryan Dahl created Node.js in 2009, enabling scalable server-side JavaScript programming."
+    },
+    {
+      "id": "tech_71",
+      "question": "What fraudulent practice involves tricking individuals into revealing passwords or credit card numbers via deceptive emails?",
+      "options": [
+        "Phishing",
+        "Spoofing",
+        "DDoS",
+        "Cross-Site Scripting"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Phishing attacks impersonate trustworthy entities to deceive victims into handing over sensitive credentials."
+    },
+    {
+      "id": "tech_72",
+      "question": "What security barrier monitors and filters incoming and outgoing network traffic based on predetermined rules?",
+      "options": [
+        "Antivirus",
+        "Firewall",
+        "Proxy",
+        "Load Balancer"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A firewall establishes a barrier between a trusted internal network and untrusted external traffic."
+    },
+    {
+      "id": "tech_73",
+      "question": "What type of malicious software encrypts a victim's files and demands payment for the decryption key?",
+      "options": [
+        "Spyware",
+        "Adware",
+        "Ransomware",
+        "Trojan Horse"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Ransomware attacks (such as WannaCry) hold files hostage until a ransom is paid."
+    },
+    {
+      "id": "tech_74",
+      "question": "What asymmetric public-key cryptography algorithm is named after Rivest, Shamir, and Adleman?",
+      "options": [
+        "AES",
+        "DES",
+        "RSA",
+        "SHA-256"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "RSA was introduced in 1977 and relies on the practical difficulty of factoring large composite prime numbers."
+    },
+    {
+      "id": "tech_75",
+      "question": "What authentication method requires two independent pieces of evidence before granting user access?",
+      "options": [
+        "Single Sign-On (SSO)",
+        "Two-Factor Authentication (2FA)",
+        "OAuth 2.0",
+        "Biometric Encryption"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "2FA combines something you know (password) with something you have (phone/token) or are (fingerprint)."
+    },
+    {
+      "id": "tech_76",
+      "question": "What cryptographic hash function designed by the NSA produces a 256-bit digest and is used in Bitcoin?",
+      "options": [
+        "MD5",
+        "SHA-1",
+        "SHA-256",
+        "CRC32"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "SHA-256 (part of SHA-2) generates a unique fixed-length 32-byte hash from arbitrary data."
+    },
+    {
+      "id": "tech_77",
+      "question": "What cyberattack floods a target web server or network with excessive traffic to make it unavailable?",
+      "options": [
+        "SQL Injection",
+        "Man-in-the-Middle",
+        "DDoS (Distributed Denial of Service)",
+        "Zero-Day Exploit"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "DDoS attacks weaponize networks of infected computers (botnets) to overwhelm victim bandwidth."
+    },
+    {
+      "id": "tech_78",
+      "question": "What symmetric encryption standard with key sizes of 128, 192, and 256 bits is widely used globally today?",
+      "options": [
+        "DES",
+        "Blowfish",
+        "AES (Advanced Encryption Standard)",
+        "RC4"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "AES was established by NIST in 2001 and protects government and commercial data worldwide."
+    },
+    {
+      "id": "tech_79",
+      "question": "What term describes a software vulnerability that is actively exploited before the vendor has released a patch?",
+      "options": [
+        "Zero-day vulnerability",
+        "Backdoor",
+        "Buffer overflow",
+        "Logic bomb"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A zero-day flaw gives developers 'zero days' to prepare a patch once discovery becomes public."
+    },
+    {
+      "id": "tech_80",
+      "question": "What wireless security protocol standard introduced in 2018 succeeded WPA2 to secure Wi-Fi networks?",
+      "options": [
+        "WEP",
+        "WPA3",
+        "SSL 3.0",
+        "IPsec"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "WPA3 provides robust individualized data encryption and brute-force protection for Wi-Fi."
+    },
+    {
+      "id": "tech_81",
+      "question": "What subfield of artificial intelligence focuses on algorithms that learn patterns from training data?",
+      "options": [
+        "Expert Systems",
+        "Machine Learning (ML)",
+        "Symbolic AI",
+        "Rule Engines"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Machine Learning algorithms build mathematical models from sample data to make predictions without explicit programming."
+    },
+    {
+      "id": "tech_82",
+      "question": "What computational models inspired by the biological human brain power deep learning?",
+      "options": [
+        "Decision Trees",
+        "Artificial Neural Networks",
+        "Genetic Algorithms",
+        "Markov Chains"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Neural networks use interconnected layers of nodes (neurons) to process complex input data."
+    },
+    {
+      "id": "tech_83",
+      "question": "What benchmark proposed in 1950 tests a machine's ability to exhibit intelligent behavior indistinguishable from a human?",
+      "options": [
+        "Turing Test",
+        "Voight-Kampff Test",
+        "Lovelace Test",
+        "Winograd Schema"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Alan Turing's 'Imitation Game' assesses whether a human judge can distinguish a machine from a person."
+    },
+    {
+      "id": "tech_84",
+      "question": "What AI domain enables computers to understand, interpret, and generate human spoken and written languages?",
+      "options": [
+        "Computer Vision",
+        "Natural Language Processing (NLP)",
+        "Robotics",
+        "Reinforcement Learning"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "NLP combines linguistics and machine learning to analyze text and speech."
+    },
+    {
+      "id": "tech_85",
+      "question": "What deep learning architecture introduced in the 2017 paper 'Attention Is All You Need' powers modern LLMs?",
+      "options": [
+        "Convolutional Neural Network (CNN)",
+        "Recurrent Neural Network (RNN)",
+        "Transformer",
+        "Perceptron"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Transformer architecture uses self-attention mechanisms to process sequence data in parallel."
+    },
+    {
+      "id": "tech_86",
+      "question": "Which company developed the generative AI model ChatGPT, launched in November 2022?",
+      "options": [
+        "Google DeepMind",
+        "Meta",
+        "OpenAI",
+        "Microsoft"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "OpenAI released ChatGPT, which reached 100 million monthly active users within two months."
+    },
+    {
+      "id": "tech_87",
+      "question": "What AI program developed by Google DeepMind defeated 18-time world champion Lee Sedol at Go in 2016?",
+      "options": [
+        "Deep Blue",
+        "AlphaGo",
+        "Watson",
+        "AlphaFold"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "AlphaGo's 4-1 victory in Seoul marked a historic milestone for artificial intelligence."
+    },
+    {
+      "id": "tech_88",
+      "question": "What technique trains AI agents through a system of actions, states, rewards, and penalties?",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Dimensionality Reduction"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Reinforcement learning optimizes an agent's policy to maximize cumulative rewards over time."
+    },
+    {
+      "id": "tech_89",
+      "question": "What open-source deep learning library was developed by Google Brain and released in 2015?",
+      "options": [
+        "TensorFlow",
+        "PyTorch",
+        "Caffe",
+        "Scikit-Learn"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "TensorFlow provides a comprehensive ecosystem for building and deploying machine learning models."
+    },
+    {
+      "id": "tech_90",
+      "question": "What deep learning AI system created by DeepMind predicted 3D protein structures with atomic accuracy in 2020?",
+      "options": [
+        "AlphaZero",
+        "AlphaFold",
+        "AlphaStar",
+        "AlphaCode"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "AlphaFold solved a 50-year-old grand challenge in biology by predicting protein folding."
+    },
+    {
+      "id": "tech_91",
+      "question": "Who is recognized as the world's first computer programmer for writing an algorithm for the Analytical Engine in 1843?",
+      "options": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Katherine Johnson",
+        "Margaret Hamilton"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ada Lovelace translated Menabrea's paper and appended an algorithm to compute Bernoulli numbers."
+    },
+    {
+      "id": "tech_92",
+      "question": "Which American computer pioneer coined the term 'debugging' after finding an actual moth inside the Mark II computer?",
+      "options": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Joan Clarke",
+        "Hedy Lamarr"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Rear Admiral Grace Hopper was a pioneer who developed the first compiler and influenced COBOL."
+    },
+    {
+      "id": "tech_93",
+      "question": "Who co-founded Apple Computer alongside Steve Jobs in 1976 and single-handedly designed the Apple I and II?",
+      "options": [
+        "Steve Wozniak",
+        "Ronald Wayne",
+        "Mike Markkula",
+        "John Sculley"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Steve Wozniak ('Woz') designed the hardware and circuit boards for Apple's first computers."
+    },
+    {
+      "id": "tech_94",
+      "question": "Who co-founded Microsoft Corporation alongside Paul Allen in 1975?",
+      "options": [
+        "Bill Gates",
+        "Steve Ballmer",
+        "Satya Nadella",
+        "Gordon Moore"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Bill Gates and Paul Allen founded Microsoft to develop and sell BASIC interpreters for the Altair 8800."
+    },
+    {
+      "id": "tech_95",
+      "question": "Who founded Amazon.com in 1994 as an online bookstore operating out of his garage?",
+      "options": [
+        "Jeff Bezos",
+        "Elon Musk",
+        "Larry Ellison",
+        "Pierre Omidyar"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Jeff Bezos started Amazon in Seattle, growing it into the world's largest online retail and cloud enterprise."
+    },
+    {
+      "id": "tech_96",
+      "question": "Who co-founded Google while Ph.D. students at Stanford University in 1998?",
+      "options": [
+        "Larry Page and Sergey Brin",
+        "Steve Jobs and Steve Wozniak",
+        "Bill Gates and Paul Allen",
+        "Mark Zuckerberg and Eduardo Saverin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Larry Page and Sergey Brin developed the PageRank algorithm and incorporated Google in September 1998."
+    },
+    {
+      "id": "tech_97",
+      "question": "Who founded the social networking service Facebook in his Harvard dormitory room in 2004?",
+      "options": [
+        "Jack Dorsey",
+        "Mark Zuckerberg",
+        "Evan Spiegel",
+        "Kevin Systrom"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mark Zuckerberg launched 'TheFacebook' in February 2004 for Harvard students."
+    },
+    {
+      "id": "tech_98",
+      "question": "Who led the software engineering team at MIT that developed the on-board Apollo Guidance Computer flight software?",
+      "options": [
+        "Grace Hopper",
+        "Margaret Hamilton",
+        "Dorothy Vaughan",
+        "Gladys West"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Margaret Hamilton pioneered software engineering, ensuring the Apollo 11 lunar module could land safely."
+    },
+    {
+      "id": "tech_99",
+      "question": "Who invented the modern computer mouse in 1964 and demonstrated it in the 'Mother of All Demos' in 1968?",
+      "options": [
+        "Douglas Engelbart",
+        "Alan Kay",
+        "Vint Cerf",
+        "Ivan Sutherland"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Douglas Engelbart at SRI demonstrated the mouse, hypertext, windows, and video conferencing in 1968."
+    },
+    {
+      "id": "tech_100",
+      "question": "Who invented the relational database model while working at IBM in 1970?",
+      "options": [
+        "Edgar F. Codd",
+        "Larry Ellison",
+        "Peter Chen",
+        "Donald Chamberlin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "E.F. Codd published 'A Relational Model of Data for Large Shared Data Banks', founding modern database theory."
+    },
+    {
+      "id": "tech_101",
+      "question": "What is the basic unit of information in quantum computing, capable of superposition?",
+      "options": [
+        "Bit",
+        "Qubit",
+        "Byte",
+        "Quantum Gate"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A quantum bit (qubit) can exist in superpositions of state |0⟩ and |1⟩ simultaneously."
+    },
+    {
+      "id": "tech_102",
+      "question": "Who published the Bitcoin whitepaper under a pseudonym in October 2008?",
+      "options": [
+        "Vitalik Buterin",
+        "Satoshi Nakamoto",
+        "Hal Finney",
+        "Nick Szabo"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Satoshi Nakamoto published 'Bitcoin: A Peer-to-Peer Electronic Cash System', releasing the open-source software in 2009."
+    },
+    {
+      "id": "tech_103",
+      "question": "What sensor technology uses pulsed laser light to measure distances and map 3D environments in self-driving cars?",
+      "options": [
+        "Radar",
+        "LiDAR",
+        "Sonar",
+        "Infrared Photometer"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "LiDAR (Light Detection and Ranging) generates precise 3D point cloud maps of surrounding environments."
+    },
+    {
+      "id": "tech_104",
+      "question": "What technology overlays computer-generated visual content onto the real-world view?",
+      "options": [
+        "Virtual Reality (VR)",
+        "Augmented Reality (AR)",
+        "Deepfake",
+        "Holography"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Augmented Reality (AR) enhances real environments with digital projections and overlays."
+    },
+    {
+      "id": "tech_105",
+      "question": "What decentralized digital ledger records transactions across a network of computers tamper-resistantly?",
+      "options": [
+        "Blockchain",
+        "Cloud Storage",
+        "Relational Database",
+        "Data Warehouse"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A blockchain groups transactions into cryptographically linked chronological blocks."
+    },
+    {
+      "id": "tech_106",
+      "question": "What generation of cellular broadband technology began global deployment around 2019 offering gigabit speeds?",
+      "options": [
+        "3G",
+        "4G LTE",
+        "5G",
+        "WiMAX"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "5G networks offer high multi-Gbps peak data speeds, ultra-low latency, and massive device connectivity."
+    },
+    {
+      "id": "tech_107",
+      "question": "What self-executing contracts with the terms directly written into code run on Ethereum?",
+      "options": [
+        "Smart Contracts",
+        "Cryptographic Deeds",
+        "Consensus Tokens",
+        "Decentralized APIs"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Smart contracts automatically execute agreed-upon actions when predetermined conditions are verified."
+    },
+    {
+      "id": "tech_108",
+      "question": "What computing paradigm processes data close to the source where it is generated rather than in a distant data center?",
+      "options": [
+        "Mainframe Computing",
+        "Edge Computing",
+        "Batch Computing",
+        "Virtual Grid"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Edge computing reduces bandwidth use and latency by computing on local gateways or IoT devices."
+    },
+    {
+      "id": "tech_109",
+      "question": "What facial recognition technology introduced by Apple with iPhone X uses a dot projector and infrared camera?",
+      "options": [
+        "Touch ID",
+        "Face ID",
+        "Iris Scan",
+        "TrueDepth Biometrics"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Face ID projects over 30,000 infrared dots to build a 3D depth map of the user's face."
+    },
+    {
+      "id": "tech_110",
+      "question": "What term describes microscopic manipulation of matter on an atomic, molecular, and supramolecular scale?",
+      "options": [
+        "Microcomputing",
+        "Nanotechnology",
+        "Femtotechnology",
+        "Quantum Synthesis"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Nanotechnology operates at scales between 1 and 100 nanometers."
+    }
+  ]
+}

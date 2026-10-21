@@ -1,0 +1,1330 @@
+{
+  "id": "general_trivia",
+  "name": "General Trivia",
+  "description": "Fascinating curiosities, arts, literature, and worldwide facts across 11 levels.",
+  "icon": "lightbulb",
+  "primaryColor": 4278225275,
+  "accentColor": 4283283116,
+  "questions": [
+    {
+      "id": "general_1",
+      "question": "Which sea creature is famous for having three hearts and blue blood?",
+      "options": [
+        "Dolphin",
+        "Octopus",
+        "Sea Turtle",
+        "Jellyfish"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An octopus has three hearts: two pump blood to the gills, while one pumps oxygenated blood through the body."
+    },
+    {
+      "id": "general_2",
+      "question": "What is the only mammal capable of sustained true powered flight?",
+      "options": [
+        "Flying Squirrel",
+        "Bat",
+        "Sugar Glider",
+        "Colugo"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Bats are the only mammals whose forelimbs form webbed wings capable of true flapping flight."
+    },
+    {
+      "id": "general_3",
+      "question": "What is the tallest living mammal on Earth?",
+      "options": [
+        "African Elephant",
+        "Giraffe",
+        "Camel",
+        "Hippopotamus"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Adult giraffes can stand between 14 to 19 feet (4.3 to 5.8 meters) tall."
+    },
+    {
+      "id": "general_4",
+      "question": "What natural food item produced by insects is known to never truly spoil if sealed?",
+      "options": [
+        "Maple Syrup",
+        "Honey",
+        "Olive Oil",
+        "Cider Vinegar"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Archaeologists have found pots of 3,000-year-old honey in Egyptian tombs that remains perfectly edible."
+    },
+    {
+      "id": "general_5",
+      "question": "Which animal is recognized as the slowest-moving mammal in the world?",
+      "options": [
+        "Giant Tortoise",
+        "Three-toed Sloth",
+        "Snail",
+        "Koala"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Three-toed sloths move at an average speed of about 0.15 mph (0.24 km/h) through tree canopies."
+    },
+    {
+      "id": "general_6",
+      "question": "What color is a polar bear's skin beneath its thick white fur?",
+      "options": [
+        "Pink",
+        "Black",
+        "White",
+        "Gray"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A polar bear's skin is black to absorb heat from sunlight, while its fur is translucent and hollow."
+    },
+    {
+      "id": "general_7",
+      "question": "What is a group of flamingos appropriately called?",
+      "options": [
+        "Flock",
+        "Flamboyance",
+        "Gaggle",
+        "Pod"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A gathering of flamingos is known as a flamboyance, matching their vibrant pink plumage."
+    },
+    {
+      "id": "general_8",
+      "question": "Which continent is the natural native habitat of the wild platypus and koala?",
+      "options": [
+        "Africa",
+        "South America",
+        "Australia",
+        "Asia"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Both the duck-billed platypus and koala are endemic to the Australian continent."
+    },
+    {
+      "id": "general_9",
+      "question": "How many arms (tentacles and arms combined) does a typical squid have?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Squids have eight arms and two longer feeding tentacles, totaling ten appendages."
+    },
+    {
+      "id": "general_10",
+      "question": "What is the largest living species of bird in the world, unable to fly?",
+      "options": [
+        "Emu",
+        "Ostrich",
+        "Cassowary",
+        "Penguin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The common ostrich can weigh up to 300 pounds and sprint at speeds up to 43 mph (70 km/h)."
+    },
+    {
+      "id": "general_11",
+      "question": "Who painted the world-renowned portrait of the Mona Lisa in the 16th century?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Sandro Botticelli"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Leonardo da Vinci began painting the Mona Lisa (La Gioconda) in Florence around 1503."
+    },
+    {
+      "id": "general_12",
+      "question": "Which Dutch post-impressionist painter created 'The Starry Night' while staying in Saint-Rémy?",
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Vincent van Gogh",
+        "Piet Mondrian"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Van Gogh painted The Starry Night in June 1889 depicting the view from his asylum room window."
+    },
+    {
+      "id": "general_13",
+      "question": "Who sculpted the famous 17-foot marble statue of David in Florence?",
+      "options": [
+        "Donatello",
+        "Michelangelo",
+        "Bernini",
+        "Canova"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Michelangelo Buonarroti sculpted David out of a single block of Carrara marble between 1501 and 1504."
+    },
+    {
+      "id": "general_14",
+      "question": "Which Norwegian artist created the iconic expressionist painting 'The Scream'?",
+      "options": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Caspar David Friedrich"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Edvard Munch created four versions of The Scream between 1893 and 1910."
+    },
+    {
+      "id": "general_15",
+      "question": "Who painted the famous ceiling of the Sistine Chapel in the Vatican between 1508 and 1512?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Caravaggio"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Pope Julius II commissioned Michelangelo to paint the Sistine Chapel ceiling depicting scenes from Genesis."
+    },
+    {
+      "id": "general_16",
+      "question": "Which Spanish artist co-founded Cubism and painted the anti-war masterpiece 'Guernica' in 1937?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Francisco Goya"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Picasso created Guernica in response to the bombing of the Basque town of Guernica during the Spanish Civil War."
+    },
+    {
+      "id": "general_17",
+      "question": "Who painted 'The Persistence of Memory' featuring melting pocket watches in a desolate landscape?",
+      "options": [
+        "René Magritte",
+        "Salvador Dalí",
+        "Max Ernst",
+        "Giorgio de Chirico"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Salvador Dalí painted the surrealist classic in 1931, inspired by soft Camembert cheese melting in the sun."
+    },
+    {
+      "id": "general_18",
+      "question": "Which Dutch artist painted 'Girl with a Pearl Earring' around 1665?",
+      "options": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Frans Hals",
+        "Jan Steen"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Johannes Vermeer is renowned for his mastery of light in masterworks like Girl with a Pearl Earring."
+    },
+    {
+      "id": "general_19",
+      "question": "Who sculpted the famous bronze statue 'The Thinker' (Le Penseur)?",
+      "options": [
+        "Auguste Rodin",
+        "Alberto Giacometti",
+        "Henry Moore",
+        "Constantin Brâncuși"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Rodin originally conceived The Thinker in 1880 as part of his monumental portal 'The Gates of Hell'."
+    },
+    {
+      "id": "general_20",
+      "question": "Which Mexican painter is internationally celebrated for her uncompromising and vibrant self-portraits?",
+      "options": [
+        "Frida Kahlo",
+        "Diego Rivera",
+        "Leonora Carrington",
+        "Remedios Varo"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Frida Kahlo's folk-art influenced work explored identity, suffering, and Mexican culture."
+    },
+    {
+      "id": "general_21",
+      "question": "Who wrote the tragic play 'Romeo and Juliet' and the tragedy 'Hamlet'?",
+      "options": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson",
+        "John Milton"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "William Shakespeare produced roughly 39 plays and 154 sonnets during the Elizabethan and Jacobean eras."
+    },
+    {
+      "id": "general_22",
+      "question": "Who wrote the dystopian novel 'Nineteen Eighty-Four' featuring Big Brother and Thoughtcrime?",
+      "options": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Arthur C. Clarke"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Eric Arthur Blair, writing under the pen name George Orwell, published Nineteen Eighty-Four in 1949."
+    },
+    {
+      "id": "general_23",
+      "question": "Which Spanish author wrote 'Don Quixote', widely considered the first modern European novel?",
+      "options": [
+        "Gabriel García Márquez",
+        "Miguel de Cervantes",
+        "Federico García Lorca",
+        "Jorge Luis Borges"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Cervantes published Don Quixote in two parts (1605 and 1615), satirizing chivalric romances."
+    },
+    {
+      "id": "general_24",
+      "question": "Who wrote the epic fantasy trilogy 'The Lord of the Rings'?",
+      "options": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Terry Pratchett"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Oxford philology professor J.R.R. Tolkien created Middle-earth, publishing the trilogy between 1954 and 1955."
+    },
+    {
+      "id": "general_25",
+      "question": "Who authored the classic 1813 novel 'Pride and Prejudice'?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Mary Shelley",
+        "Emily Brontë"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Jane Austen published Pride and Prejudice anonymously in 1813, following Elizabeth Bennet and Mr. Darcy."
+    },
+    {
+      "id": "general_26",
+      "question": "Who wrote the iconic 1818 gothic horror novel 'Frankenstein; or, The Modern Prometheus'?",
+      "options": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "Lord Byron"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Mary Shelley wrote Frankenstein at age 18 during a rainy summer at Lake Geneva in 1816."
+    },
+    {
+      "id": "general_27",
+      "question": "Which Russian author wrote the sweeping historical epic novel 'War and Peace'?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Anton Chekhov",
+        "Alexander Pushkin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Count Leo Tolstoy published War and Peace in 1869, chronicling the French invasion of Russia."
+    },
+    {
+      "id": "general_28",
+      "question": "Who created the legendary fictional detective Sherlock Holmes and Dr. John Watson?",
+      "options": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "G.K. Chesterton"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Arthur Conan Doyle introduced Sherlock Holmes in the 1887 novel 'A Study in Scarlet'."
+    },
+    {
+      "id": "general_29",
+      "question": "Who wrote the famous children's fantasy novel 'Alice's Adventures in Wonderland' in 1865?",
+      "options": [
+        "Lewis Carroll",
+        "Roald Dahl",
+        "Beatrix Potter",
+        "J.M. Barrie"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Oxford mathematician Charles Lutwidge Dodgson wrote Alice under the pseudonym Lewis Carroll."
+    },
+    {
+      "id": "general_30",
+      "question": "Which French novelist wrote 'Les Misérables' and 'The Hunchback of Notre-Dame'?",
+      "options": [
+        "Gustave Flaubert",
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Émile Zola"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Victor Hugo was a titan of the French Romantic movement and passionate advocate for social justice."
+    },
+    {
+      "id": "general_31",
+      "question": "In which Italian city did the traditional Neapolitan pizza and Pizza Margherita originate?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Naples",
+        "Milan"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Naples is the birthplace of modern pizza; pizzaiolo Raffaele Esposito created the Margherita in 1889."
+    },
+    {
+      "id": "general_32",
+      "question": "In which country was the beverage of tea first discovered and cultivated thousands of years ago?",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Sri Lanka"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "According to legend, Chinese Emperor Shennong discovered tea when camellia leaves blew into boiling water in 2737 BCE."
+    },
+    {
+      "id": "general_33",
+      "question": "What spice, derived from the dried stigmas of a crocus flower, is the world's most expensive spice by weight?",
+      "options": [
+        "Vanilla",
+        "Saffron",
+        "Cardamom",
+        "Cinnamon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Saffron requires harvesting up to 75,000 crocus sativus blossoms by hand to produce a single pound."
+    },
+    {
+      "id": "general_34",
+      "question": "Which ancient Mesoamerican civilization first brewed bitter chocolate drinks from cacao beans?",
+      "options": [
+        "Inca",
+        "Maya and Aztecs",
+        "Romans",
+        "Persians"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Maya and Aztecs prepared frothy ceremonial cacao beverages called 'xocolatl'."
+    },
+    {
+      "id": "general_35",
+      "question": "What pastry, famous in French cuisine, actually originated in Vienna, Austria, as the 'Kipferl'?",
+      "options": [
+        "Eclair",
+        "Croissant",
+        "Baguette",
+        "Macaron"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The croissant evolved from the Austrian crescent-shaped yeast bread Kipferl, introduced to Paris in the 1830s."
+    },
+    {
+      "id": "general_36",
+      "question": "What Japanese dish traditionally consists of vinegared rice served with seafood, vegetables, or egg?",
+      "options": [
+        "Ramen",
+        "Sushi",
+        "Tempura",
+        "Udon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The word 'sushi' refers specifically to the seasoned sumeshi rice, not raw fish."
+    },
+    {
+      "id": "general_37",
+      "question": "Which country is historically credited with the discovery and early cultivation of the coffee plant?",
+      "options": [
+        "Brazil",
+        "Ethiopia",
+        "Colombia",
+        "Vietnam"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Legend attributes the discovery of coffee to an Ethiopian goat herder named Kaldi in the Kaffa province."
+    },
+    {
+      "id": "general_38",
+      "question": "What French cooking technique involves vacuum-sealing food in a bag and cooking it in a precise water bath?",
+      "options": [
+        "Braising",
+        "Sous-vide",
+        "Sautéing",
+        "Flambé"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sous-vide (French for 'under vacuum') enables exact temperature control and moisture retention."
+    },
+    {
+      "id": "general_39",
+      "question": "What cheese with a blue-veined mold originates from raw sheep's milk aged in natural caves in southern France?",
+      "options": [
+        "Gouda",
+        "Roquefort",
+        "Cheddar",
+        "Brie"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Roquefort is aged in the natural Combalou limestone caves of Roquefort-sur-Soulzon."
+    },
+    {
+      "id": "general_40",
+      "question": "What essential cooking fat is produced by extracting oil from the fruit of the Olea europaea tree?",
+      "options": [
+        "Canola oil",
+        "Olive oil",
+        "Palm oil",
+        "Sesame oil"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Olive oil has been a staple of Mediterranean agriculture and cuisine for over 6,000 years."
+    },
+    {
+      "id": "general_41",
+      "question": "What is the official currency of Japan?",
+      "options": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Baht"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Japanese yen (JPY) was adopted under the Meiji government in 1871."
+    },
+    {
+      "id": "general_42",
+      "question": "What is the official currency of the United Kingdom, recognized as the oldest continuously used currency?",
+      "options": [
+        "Euro",
+        "Pound Sterling",
+        "Crown",
+        "Guilder"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The British Pound Sterling has been in continuous circulation for over 1,200 years since Anglo-Saxon times."
+    },
+    {
+      "id": "general_43",
+      "question": "What is the currency used by Switzerland and Liechtenstein?",
+      "options": [
+        "Swiss Franc",
+        "Euro",
+        "Krona",
+        "Mark"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Swiss Franc (CHF) is noted for its stability and international reserve status."
+    },
+    {
+      "id": "general_44",
+      "question": "What international financial center on Manhattan island in New York City is famous as the hub of American finance?",
+      "options": [
+        "Madison Avenue",
+        "Wall Street",
+        "Fifth Avenue",
+        "Broadway"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Wall Street houses the New York Stock Exchange (NYSE) and major financial institutions."
+    },
+    {
+      "id": "general_45",
+      "question": "What precious yellow metal has served as a universal store of value and currency basis throughout history?",
+      "options": [
+        "Silver",
+        "Gold",
+        "Platinum",
+        "Copper"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Gold has been minted into coins and held in central bank reserves for millennia due to its rarity and corrosion resistance."
+    },
+    {
+      "id": "general_46",
+      "question": "What is the official national currency of India?",
+      "options": [
+        "Rupee",
+        "Rial",
+        "Ringgit",
+        "Rupiah"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Indian Rupee (INR) is issued and regulated by the Reserve Bank of India."
+    },
+    {
+      "id": "general_47",
+      "question": "What is the term for a sustained increase in the general price level of goods and services over time?",
+      "options": [
+        "Deflation",
+        "Inflation",
+        "Stagflation",
+        "Recession"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Inflation reduces the purchasing power of money over time as prices rise."
+    },
+    {
+      "id": "general_48",
+      "question": "What international organization based in Washington, D.C. works to foster global monetary cooperation and financial stability?",
+      "options": [
+        "World Trade Organization (WTO)",
+        "International Monetary Fund (IMF)",
+        "OECD",
+        "Federal Reserve"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The IMF was established at the Bretton Woods Conference in 1944 to support global financial stability."
+    },
+    {
+      "id": "general_49",
+      "question": "What term in finance describes a market condition where prices are consistently rising and investor optimism is high?",
+      "options": [
+        "Bear Market",
+        "Bull Market",
+        "Sideways Market",
+        "Correction"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A bull market is characterized by rising stock valuations, contrasting with a bear market."
+    },
+    {
+      "id": "general_50",
+      "question": "What is the official currency of South Korea?",
+      "options": [
+        "Yen",
+        "Yuan",
+        "Won",
+        "Ringgit"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The South Korean Won (KRW) has been the currency of the Republic of Korea since 1962."
+    },
+    {
+      "id": "general_51",
+      "question": "What was the first full-length cel-animated feature film produced by Walt Disney in 1937?",
+      "options": [
+        "Pinocchio",
+        "Snow White and the Seven Dwarfs",
+        "Fantasia",
+        "Bambi"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Snow White and the Seven Dwarfs was a massive critical and commercial milestone in cinematic history."
+    },
+    {
+      "id": "general_52",
+      "question": "Which legendary English rock band from Liverpool consisted of John, Paul, George, and Ringo?",
+      "options": [
+        "The Rolling Stones",
+        "The Beatles",
+        "The Who",
+        "Led Zeppelin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Beatles are the best-selling music act of all time, with estimated sales over 600 million units."
+    },
+    {
+      "id": "general_53",
+      "question": "What award statuette presented annually by the Academy of Motion Picture Arts and Sciences is nicknamed?",
+      "options": [
+        "Tony",
+        "Emmy",
+        "Oscar",
+        "Grammy"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Academy Award statuette of a knight holding a crusader's sword is affectionately known as the Oscar."
+    },
+    {
+      "id": "general_54",
+      "question": "Which Michael Jackson album released in November 1982 became the best-selling album of all time?",
+      "options": [
+        "Off the Wall",
+        "Bad",
+        "Thriller",
+        "Dangerous"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Thriller has sold an estimated 70 million copies worldwide and won eight Grammy Awards in 1984."
+    },
+    {
+      "id": "general_55",
+      "question": "Who directed the classic Hollywood cinema masterworks 'Jaws', 'E.T.', 'Jurassic Park', and 'Schindler's List'?",
+      "options": [
+        "Martin Scorsese",
+        "Steven Spielberg",
+        "George Lucas",
+        "James Cameron"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Steven Spielberg is the highest-grossing film director in history."
+    },
+    {
+      "id": "general_56",
+      "question": "What sci-fi film franchise created by George Lucas debuted with 'A New Hope' in May 1977?",
+      "options": [
+        "Star Trek",
+        "Star Wars",
+        "Blade Runner",
+        "Alien"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Star Wars revolutionized cinematic visual effects, merchandising, and modern blockbuster culture."
+    },
+    {
+      "id": "general_57",
+      "question": "Which classical Austrian composer was a child prodigy who composed over 600 works before dying at age 35?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Franz Schubert"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mozart began composing at age 5 and produced masterwork operas, symphonies, and concertos."
+    },
+    {
+      "id": "general_58",
+      "question": "What 1997 James Cameron epic romance and disaster film won 11 Oscars and starred Leonardo DiCaprio and Kate Winslet?",
+      "options": [
+        "Avatar",
+        "Titanic",
+        "The Abyss",
+        "Gladiator"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Titanic grossed over $2 billion and was the first film to reach that box office milestone."
+    },
+    {
+      "id": "general_59",
+      "question": "Which American singer-songwriter is known as 'The Queen of Pop' and the best-selling female recording artist of all time?",
+      "options": [
+        "Whitney Houston",
+        "Madonna",
+        "Mariah Carey",
+        "Celine Dion"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Madonna has sold over 300 million records worldwide certified by Guinness World Records."
+    },
+    {
+      "id": "general_60",
+      "question": "What annual international song competition organized by the EBU has been broadcast live since 1956?",
+      "options": [
+        "Grammy Awards",
+        "Eurovision Song Contest",
+        "American Idol",
+        "MTV VMAs"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Eurovision is one of the world's longest-running and most-watched non-sporting television events."
+    },
+    {
+      "id": "general_61",
+      "question": "Which language has the highest number of native (first-language) speakers in the world?",
+      "options": [
+        "English",
+        "Mandarin Chinese",
+        "Spanish",
+        "Hindi"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mandarin Chinese has approximately 920 million native speakers, primarily in China."
+    },
+    {
+      "id": "general_62",
+      "question": "What is the official language of Brazil, contrasting with the Spanish spoken across most of South America?",
+      "options": [
+        "Spanish",
+        "Portuguese",
+        "French",
+        "Italian"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Portuguese is the official language due to Portuguese colonization beginning under Pedro Álvares Cabral in 1500."
+    },
+    {
+      "id": "general_63",
+      "question": "What ancient writing system used stylized pictorial characters to represent sounds and ideas in ancient Egypt?",
+      "options": [
+        "Hieroglyphics",
+        "Cuneiform",
+        "Linear B",
+        "Runic"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Egyptian hieroglyphs were deciphered in 1822 by Jean-François Champollion using the Rosetta Stone."
+    },
+    {
+      "id": "general_64",
+      "question": "What international auxiliary language was created in 1887 by L.L. Zamenhof to facilitate universal communication?",
+      "options": [
+        "Interlingua",
+        "Volapük",
+        "Esperanto",
+        "Ido"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Esperanto is the most widely spoken constructed international language in the world."
+    },
+    {
+      "id": "general_65",
+      "question": "Which language family includes English, Spanish, Russian, Hindi, and Persian?",
+      "options": [
+        "Sino-Tibetan",
+        "Afroasiatic",
+        "Indo-European",
+        "Uralic"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Indo-European is the world's largest language family by number of speakers."
+    },
+    {
+      "id": "general_66",
+      "question": "Which ancient Semitic alphabet developed around 1050 BCE served as the ancestor to Greek, Latin, and Arabic scripts?",
+      "options": [
+        "Phoenician alphabet",
+        "Sumerian script",
+        "Aramaic script",
+        "Brahmi script"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The 22-letter Phoenician consonant alphabet was adopted and adapted across the Mediterranean."
+    },
+    {
+      "id": "general_67",
+      "question": "What is the study of language structure, sounds, grammar, and evolution called?",
+      "options": [
+        "Sociology",
+        "Linguistics",
+        "Anthropology",
+        "Etymology"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Linguistics encompasses phonetics, phonology, morphology, syntax, semantics, and pragmatics."
+    },
+    {
+      "id": "general_68",
+      "question": "Which language is the official sacred liturgical language of Hinduism, Buddhism, and Jainism?",
+      "options": [
+        "Pali",
+        "Sanskrit",
+        "Prakrit",
+        "Tamil"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sanskrit is an ancient Indo-Aryan language in which the Vedas and Upanishads were composed."
+    },
+    {
+      "id": "general_69",
+      "question": "What term describes a word that is spelled identically backwards and forwards (like 'radar' or 'racecar')?",
+      "options": [
+        "Anagram",
+        "Palindrome",
+        "Acronym",
+        "Homophone"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A palindrome reads the same backwards and forwards, disregarding spaces and punctuation."
+    },
+    {
+      "id": "general_70",
+      "question": "Which modern Romance language is most closely related to ancient classical Latin?",
+      "options": [
+        "Spanish",
+        "French",
+        "Italian / Sardinian",
+        "Portuguese"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Italian and Sardinian retain the closest phonological and grammatical proximity to Latin."
+    },
+    {
+      "id": "general_71",
+      "question": "Who was the king of the gods and ruler of Mount Olympus in ancient Greek mythology?",
+      "options": [
+        "Poseidon",
+        "Zeus",
+        "Hades",
+        "Apollo"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Zeus wielded the thunderbolt and governed the sky and heavens in Greek myth."
+    },
+    {
+      "id": "general_72",
+      "question": "In Norse mythology, who is the hammer-wielding god associated with lightning, thunder, and storms?",
+      "options": [
+        "Odin",
+        "Thor",
+        "Loki",
+        "Freyja"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Thor carries the magical crusher hammer Mjölnir to protect mankind and Asgard."
+    },
+    {
+      "id": "general_73",
+      "question": "Which ancient Egyptian jackal-headed god presided over mummification and the afterlife?",
+      "options": [
+        "Ra",
+        "Osiris",
+        "Anubis",
+        "Horus"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Anubis guided souls to the underworld and weighed their hearts against the feather of Ma'at."
+    },
+    {
+      "id": "general_74",
+      "question": "In Roman mythology, who was the god of war, equivalent to the Greek god Ares?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Vulcan"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mars was revered as a father figure and protector of the Roman people and legions."
+    },
+    {
+      "id": "general_75",
+      "question": "Who was the legendary British leader of the Knights of the Round Table at Camelot?",
+      "options": [
+        "King Arthur",
+        "Sir Lancelot",
+        "Sir Galahad",
+        "Robin Hood"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Arthurian legends center on King Arthur, Merlin, Excalibur, and the quest for the Holy Grail."
+    },
+    {
+      "id": "general_76",
+      "question": "In Greek mythology, what hero completed Twelve Labors including slaying the Nemean Lion?",
+      "options": [
+        "Perseus",
+        "Heracles (Hercules)",
+        "Theseus",
+        "Achilles"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Heracles completed twelve legendary tasks commanded by King Eurystheus to atone for a madness-induced tragedy."
+    },
+    {
+      "id": "general_77",
+      "question": "In Hindu mythology, which deity is worshipped as the remover of all obstacles, depicted with an elephant head?",
+      "options": [
+        "Shiva",
+        "Vishnu",
+        "Ganesha",
+        "Brahma"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Lord Ganesha is patron of letters, learning, and new beginnings."
+    },
+    {
+      "id": "general_78",
+      "question": "What mythical bird is famous in folklore for bursting into flames and rising reborn from its own ashes?",
+      "options": [
+        "Griffin",
+        "Phoenix",
+        "Roc",
+        "Thunderbird"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The phoenix is a universal symbol of renewal, immortality, and resurrection."
+    },
+    {
+      "id": "general_79",
+      "question": "What one-eyed giants forged thunderbolts for Zeus in Greek mythology?",
+      "options": [
+        "Centaurs",
+        "Cyclopes",
+        "Titans",
+        "Gorgons"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Cyclopes were giant beings with a single circular eye in the center of their forehead."
+    },
+    {
+      "id": "general_80",
+      "question": "In Norse mythology, what is the great hall in Asgard where fallen warriors feast with Odin?",
+      "options": [
+        "Valhalla",
+        "Helheim",
+        "Midgard",
+        "Bifrost"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Valkyries chose heroic dead warriors from battlefields and conducted them to Valhalla."
+    },
+    {
+      "id": "general_81",
+      "question": "Who invented the modern ballpoint pen in the 1930s, giving his name to the pen in many countries?",
+      "options": [
+        "László Bíró",
+        "Lewis Waterman",
+        "John Loud",
+        "Earle Dickson"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Hungarian journalist László Bíró developed the rolling-ball quick-drying ink pen."
+    },
+    {
+      "id": "general_82",
+      "question": "What adhesive stationery item was accidentally invented by 3M scientist Spencer Silver in 1968?",
+      "options": [
+        "Scotch Tape",
+        "Post-it Notes",
+        "Super Glue",
+        "Correction Tape"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Dr. Silver created a low-tack reusable adhesive, later applied to paper bookmarks by Art Fry."
+    },
+    {
+      "id": "general_83",
+      "question": "What kitchen appliance was discovered accidentally by Percy Spencer in 1945 when a candy bar melted in his pocket near a radar magnetron?",
+      "options": [
+        "Toaster",
+        "Microwave Oven",
+        "Blender",
+        "Air Fryer"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Percy Spencer at Raytheon noticed the radar tube melted his chocolate and built the first Radarrange."
+    },
+    {
+      "id": "general_84",
+      "question": "What hook-and-loop fastening fabric was invented by George de Mestral in 1941 after burrs stuck to his dog's fur?",
+      "options": [
+        "Nylon",
+        "Velcro",
+        "Spandex",
+        "Teflon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "De Mestral examined cocklebur burs under a microscope and patented 'Velcro' (velours + crochet)."
+    },
+    {
+      "id": "general_85",
+      "question": "Who invented the modern safety elevator equipped with a fall-prevention brake in 1852?",
+      "options": [
+        "Elisha Otis",
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Henry Bessemer"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Elisha Otis dramatically demonstrated his safety elevator brake at the 1854 New York World's Fair."
+    },
+    {
+      "id": "general_86",
+      "question": "Who patented the first commercially successful sewing machine mechanism in the US in 1846?",
+      "options": [
+        "Isaac Singer",
+        "Elias Howe",
+        "Eli Whitney",
+        "Charles Goodyear"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Elias Howe patented the lockstitch sewing machine using an eye-pointed needle and shuttle."
+    },
+    {
+      "id": "general_87",
+      "question": "What safety glass laminated with a transparent plastic interlayer was invented accidentally by Édouard Bénédictus in 1903?",
+      "options": [
+        "Tempered glass",
+        "Safety glass",
+        "Gorilla Glass",
+        "Pyrex"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Bénédictus dropped a glass flask coated with dried cellulose nitrate and observed it shattered without flying apart."
+    },
+    {
+      "id": "general_88",
+      "question": "Who invented dynamite in 1867 by stabilizing nitroglycerin with kieselguhr (diatomaceous earth)?",
+      "options": [
+        "Alfred Nobel",
+        "Robert Bunsen",
+        "Dmitri Mendeleev",
+        "Fritz Haber"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Swedish chemist Alfred Nobel patented dynamite and later bequeathed his fortune to establish the Nobel Prizes."
+    },
+    {
+      "id": "general_89",
+      "question": "What ubiquitous fastener was patented as the 'hookless fastener' by Gideon Sundbäck in 1914?",
+      "options": [
+        "Safety pin",
+        "Zipper",
+        "Button",
+        "Snap fastener"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sundbäck perfected the interlocking metal teeth fastener, later dubbed the 'zipper' by B.F. Goodrich."
+    },
+    {
+      "id": "general_90",
+      "question": "Who invented vulcanized rubber in 1839 by heating natural rubber with sulfur?",
+      "options": [
+        "Charles Goodyear",
+        "John Dunlop",
+        "Harvey Firestone",
+        "Édouard Michelin"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Goodyear's vulcanization process made rubber weatherproof, durable, and elastic."
+    },
+    {
+      "id": "general_91",
+      "question": "What distinct leaf symbol is prominently featured on the national flag of Canada?",
+      "options": [
+        "Oak Leaf",
+        "Maple Leaf",
+        "Birch Leaf",
+        "Palm Frond"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The stylized red eleven-pointed maple leaf has been Canada's official national flag emblem since 1965."
+    },
+    {
+      "id": "general_92",
+      "question": "How many stars and stripes are featured on the national flag of the United States?",
+      "options": [
+        "50 stars and 13 stripes",
+        "48 stars and 13 stripes",
+        "50 stars and 15 stripes",
+        "52 stars and 13 stripes"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The 50 white stars represent the 50 states; the 13 alternating red and white stripes represent the original 13 colonies."
+    },
+    {
+      "id": "general_93",
+      "question": "What is unique about the national flag of Nepal compared to all other sovereign nations?",
+      "options": [
+        "It is square",
+        "It is non-quadrilateral (double-pennant)",
+        "It has no colors",
+        "It has text only"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Nepal has the world's only non-quadrilateral sovereign flag, formed by two overlapping triangular pennants."
+    },
+    {
+      "id": "general_94",
+      "question": "What three national flags are combined to form the British 'Union Jack'?",
+      "options": [
+        "England, Scotland, and Northern Ireland (Saint George, Saint Andrew, Saint Patrick)",
+        "England, Wales, and Scotland",
+        "Great Britain, Ireland, and France",
+        "England, Scotland, and Canada"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Union Flag merges the crosses of St. George (England), St. Andrew (Scotland), and St. Patrick (Ireland)."
+    },
+    {
+      "id": "general_95",
+      "question": "What national flag features a golden wheel known as the 'Ashoka Chakra' in its center?",
+      "options": [
+        "Sri Lanka",
+        "India",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Indian tricolor (Tiranga) features the 24-spoke Ashoka Chakra in navy blue on a white middle stripe."
+    },
+    {
+      "id": "general_96",
+      "question": "What tree is centered on the national flag of Lebanon?",
+      "options": [
+        "Olive Tree",
+        "Cedar of Lebanon",
+        "Oak Tree",
+        "Date Palm"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The green cedar of Lebanon has symbolized resilience, peace, and eternity in the region since Biblical times."
+    },
+    {
+      "id": "general_97",
+      "question": "Which country's flag features an image of an AK-47 assault rifle along with a hoe and a book?",
+      "options": [
+        "Angola",
+        "Mozambique",
+        "Zimbabwe",
+        "Vietnam"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mozambique's flag incorporates an AK-47 with bayonet representing national defense and vigilance."
+    },
+    {
+      "id": "general_98",
+      "question": "How many stars are displayed on the flag of the European Union?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "27"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The EU flag features a circle of 12 gold stars on a blue background, symbolizing unity and perfection (not the number of member states)."
+    },
+    {
+      "id": "general_99",
+      "question": "What color are the five stars on the red flag of the People's Republic of China?",
+      "options": [
+        "White",
+        "Yellow / Gold",
+        "Blue",
+        "Black"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The flag of China features one large golden star surrounded by four smaller golden stars in an arc."
+    },
+    {
+      "id": "general_100",
+      "question": "What national flag features an eagle perched on a prickly pear cactus devouring a snake?",
+      "options": [
+        "Guatemala",
+        "Mexico",
+        "Ecuador",
+        "Colombia"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Mexican coat of arms depicts the ancient Aztec foundation prophecy of Tenochtitlan."
+    },
+    {
+      "id": "general_101",
+      "question": "Why are flamingos naturally pink?",
+      "options": [
+        "Their feathers reflect sunsets",
+        "Their diet is high in carotenoid pigments from shrimp and algae",
+        "Genetic skin pigmentation",
+        "Thermal sun exposure"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Flamingos are born with grey feathers; their pink coloration comes from digesting beta-carotene in brine shrimp and algae."
+    },
+    {
+      "id": "general_102",
+      "question": "Botanically speaking, which of the following is classified as a true berry?",
+      "options": [
+        "Strawberry",
+        "Raspberry",
+        "Banana",
+        "Blackberry"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "In botanical terms, bananas, tomatoes, and watermelons are berries, while strawberries and raspberries are aggregate fruits."
+    },
+    {
+      "id": "general_103",
+      "question": "Did Cleopatra VII live chronologically closer in time to the construction of the Great Pyramid of Giza or the Apollo 11 moon landing?",
+      "options": [
+        "Great Pyramid of Giza",
+        "Apollo 11 Moon Landing",
+        "Exactly midpoint",
+        "Cannot be determined"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Pyramids were built ~2500 BCE; Cleopatra lived ~30 BCE (2470 years later); the Moon landing was in 1969 CE (2000 years after Cleopatra)."
+    },
+    {
+      "id": "general_104",
+      "question": "Which historic university was founded earlier than the rise of the Aztec Empire in central Mexico?",
+      "options": [
+        "Harvard University",
+        "University of Oxford",
+        "Sorbonne",
+        "Cambridge University"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Teaching existed at Oxford as early as 1096 CE; the Aztec civilization was founded around 1325 CE."
+    },
+    {
+      "id": "general_105",
+      "question": "How many hearts does an earthworm have?",
+      "options": [
+        "1",
+        "3",
+        "5 pairs (10 aortic arches)",
+        "0"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Earthworms possess five pairs of aortic arches that function as five hearts pumping blood through vessels."
+    },
+    {
+      "id": "general_106",
+      "question": "What is the only letter in the English alphabet that does NOT appear in the name of any US state?",
+      "options": [
+        "X",
+        "Z",
+        "Q",
+        "J"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The letter 'Q' does not appear in any of the 50 US state names."
+    },
+    {
+      "id": "general_107",
+      "question": "What animal has fingerprints so identical to humans that they have confused crime scene detectives?",
+      "options": [
+        "Chimpanzee",
+        "Koala",
+        "Gorilla",
+        "Raccoon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Koalas have dermatoglyph patterns on their finger pads nearly indistinguishable from human fingerprints."
+    },
+    {
+      "id": "general_108",
+      "question": "Which country has more pyramids than Egypt?",
+      "options": [
+        "Sudan",
+        "Mexico",
+        "Peru",
+        "China"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Sudan has between 200 and 255 ancient pyramids built by the Kingdom of Kush, exceeding Egypt's ~118-138."
+    },
+    {
+      "id": "general_109",
+      "question": "What color was the original carrot before Dutch cultivators bred orange varieties in the 17th century?",
+      "options": [
+        "Orange only",
+        "Purple and yellow",
+        "Bright pink",
+        "Pure black"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Early wild and cultivated carrots in Central Asia were predominantly purple or yellow."
+    },
+    {
+      "id": "general_110",
+      "question": "What is the total number of dots on a pair of standard six-sided dice?",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "One die has 1+2+3+4+5+6 = 21 pips (dots), so a pair has exactly 42 pips."
+    }
+  ]
+}

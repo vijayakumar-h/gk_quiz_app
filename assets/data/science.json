@@ -1,0 +1,1330 @@
+{
+  "id": "science",
+  "name": "Science & Nature",
+  "description": "Explore the cosmos, chemistry, biology, and the natural world across 11 levels.",
+  "icon": "science",
+  "primaryColor": 4280191205,
+  "accentColor": 4284790262,
+  "questions": [
+    {
+      "id": "science_1",
+      "question": "What is the chemical symbol for Gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Gd",
+        "Go"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Au comes from the Latin word for gold, Aurum."
+    },
+    {
+      "id": "science_2",
+      "question": "Which planet in our solar system has the highest number of confirmed moons?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Saturn has over 140 confirmed moons, surpassing Jupiter."
+    },
+    {
+      "id": "science_3",
+      "question": "What is the force that pulls objects toward the center of the Earth?",
+      "options": [
+        "Magnetism",
+        "Centrifugal force",
+        "Gravity",
+        "Friction"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Gravity is the fundamental force of attraction between masses."
+    },
+    {
+      "id": "science_4",
+      "question": "What is the nearest star to planet Earth?",
+      "options": [
+        "Proxima Centauri",
+        "The Sun",
+        "Sirius",
+        "Alpha Centauri A"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Sun is the closest star to Earth, located about 93 million miles away."
+    },
+    {
+      "id": "science_5",
+      "question": "What is the hardest naturally occurring mineral on Earth?",
+      "options": [
+        "Quartz",
+        "Granite",
+        "Diamond",
+        "Topaz"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Diamond consists of tightly bonded carbon atoms in a crystal lattice."
+    },
+    {
+      "id": "science_6",
+      "question": "How long does light from the Sun take to reach Earth approximately?",
+      "options": [
+        "8 minutes",
+        "8 seconds",
+        "8 hours",
+        "Instantaneous"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Sunlight travels at the speed of light and reaches Earth in about 8 minutes and 20 seconds."
+    },
+    {
+      "id": "science_7",
+      "question": "Which planet is commonly referred to as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mars appears reddish due to abundant iron oxide (rust) on its surface."
+    },
+    {
+      "id": "science_8",
+      "question": "What is the boiling point of pure water at standard sea level atmospheric pressure?",
+      "options": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "120°C"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at 1 atmosphere."
+    },
+    {
+      "id": "science_9",
+      "question": "Which gas is the most abundant in Earth's atmosphere?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere."
+    },
+    {
+      "id": "science_10",
+      "question": "What shape is our home galaxy, the Milky Way?",
+      "options": [
+        "Elliptical",
+        "Irregular",
+        "Spiral",
+        "Spherical"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Milky Way is classified as a barred spiral galaxy."
+    },
+    {
+      "id": "science_11",
+      "question": "What is the chemical formula for water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "CH4"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Water consists of two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "id": "science_12",
+      "question": "What is the common table salt chemically known as?",
+      "options": [
+        "Potassium Chloride",
+        "Sodium Bicarbonate",
+        "Sodium Chloride",
+        "Calcium Carbonate"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Table salt is composed of sodium and chlorine ions (NaCl)."
+    },
+    {
+      "id": "science_13",
+      "question": "What is the pH value of pure neutral water at 25°C?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "14"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A pH of 7 is considered neutral on the logarithmic acid-base scale."
+    },
+    {
+      "id": "science_14",
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Hydrogen has one proton, giving it the atomic number 1."
+    },
+    {
+      "id": "science_15",
+      "question": "What type of bond involves the sharing of electron pairs between atoms?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Hydrogen bond",
+        "Metallic bond"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Covalent bonds form when atoms share one or more pairs of valence electrons."
+    },
+    {
+      "id": "science_16",
+      "question": "Which non-metal is liquid at room temperature?",
+      "options": [
+        "Bromine",
+        "Chlorine",
+        "Mercury",
+        "Phosphorus"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Bromine is a reddish-brown liquid non-metal at standard room temperature."
+    },
+    {
+      "id": "science_17",
+      "question": "What gas is released when vinegar reacts with baking soda?",
+      "options": [
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Oxygen",
+        "Methane"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The reaction between acetic acid and sodium bicarbonate produces carbon dioxide gas."
+    },
+    {
+      "id": "science_18",
+      "question": "What is the primary gas found in natural gas?",
+      "options": [
+        "Propane",
+        "Butane",
+        "Methane",
+        "Ethane"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Methane (CH4) makes up 70% to 90% of natural gas."
+    },
+    {
+      "id": "science_19",
+      "question": "What is the symbol for the element Potassium on the periodic table?",
+      "options": [
+        "P",
+        "Po",
+        "K",
+        "Pt"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "K represents Potassium, originating from the neo-Latin name Kalium."
+    },
+    {
+      "id": "science_20",
+      "question": "What is the process of a solid turning directly into a gas called?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Sublimation occurs when a substance transitions directly from solid to gas (e.g. dry ice)."
+    },
+    {
+      "id": "science_21",
+      "question": "How many bones are there in the adult human body?",
+      "options": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Humans are born with ~270 bones, which fuse into 206 bones in adulthood."
+    },
+    {
+      "id": "science_22",
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Brain",
+        "Skin",
+        "Lungs"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The skin is the largest organ by surface area and weight."
+    },
+    {
+      "id": "science_23",
+      "question": "How many chambers does the human heart have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The heart has four chambers: two upper atria and two lower ventricles."
+    },
+    {
+      "id": "science_24",
+      "question": "Which blood cells are primarily responsible for fighting infections?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "White blood cells (leukocytes) form a key part of the immune system."
+    },
+    {
+      "id": "science_25",
+      "question": "What pigment gives human skin and hair its color?",
+      "options": [
+        "Carotene",
+        "Melanin",
+        "Hemoglobin",
+        "Keratin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Melanin is produced by melanocytes and determines skin, hair, and eye pigmentation."
+    },
+    {
+      "id": "science_26",
+      "question": "Which part of the human brain controls balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Brainstem",
+        "Hypothalamus"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The cerebellum coordinates voluntary movements, posture, and motor balance."
+    },
+    {
+      "id": "science_27",
+      "question": "What is the longest and strongest bone in the human skeleton?",
+      "options": [
+        "Tibia",
+        "Humerus",
+        "Femur",
+        "Fibula"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The femur (thigh bone) is the longest, heaviest, and strongest bone."
+    },
+    {
+      "id": "science_28",
+      "question": "Which organ produces insulin in the human body?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Pancreas",
+        "Gallbladder"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The beta cells in the islets of Langerhans in the pancreas secrete insulin."
+    },
+    {
+      "id": "science_29",
+      "question": "What is the normal resting adult human heart rate range in beats per minute?",
+      "options": [
+        "30-50 bpm",
+        "60-100 bpm",
+        "110-140 bpm",
+        "140-160 bpm"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A normal resting heart rate for healthy adults ranges from 60 to 100 beats per minute."
+    },
+    {
+      "id": "science_30",
+      "question": "What connects muscles to bones in the human body?",
+      "options": [
+        "Ligaments",
+        "Tendons",
+        "Cartilage",
+        "Joints"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Tendons are fibrous connective tissues that attach skeletal muscles to bones."
+    },
+    {
+      "id": "science_31",
+      "question": "Which is the largest living mammal on Earth?",
+      "options": [
+        "African Elephant",
+        "Blue Whale",
+        "Sperm Whale",
+        "Giraffe"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The blue whale can weigh up to 200 tons and reach 100 feet in length."
+    },
+    {
+      "id": "science_32",
+      "question": "Which animal is known as the fastest land animal?",
+      "options": [
+        "Cheetah",
+        "Lion",
+        "Pronghorn",
+        "Greyhound"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Cheetahs can accelerate up to 60-70 mph (97-113 km/h) in short bursts."
+    },
+    {
+      "id": "science_33",
+      "question": "How many legs does a spider have?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Spiders are arachnids, characterized by having eight jointed legs."
+    },
+    {
+      "id": "science_34",
+      "question": "What is a baby kangaroo called?",
+      "options": [
+        "Joey",
+        "Cub",
+        "Calf",
+        "Kid"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A baby marsupial such as a kangaroo or koala is called a joey."
+    },
+    {
+      "id": "science_35",
+      "question": "Which bird is capable of flying backwards?",
+      "options": [
+        "Hummingbird",
+        "Swift",
+        "Kingfisher",
+        "Woodpecker"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Hummingbirds have unique ball-and-socket shoulder joints allowing reverse flight."
+    },
+    {
+      "id": "science_36",
+      "question": "What type of animal is a Komodo dragon?",
+      "options": [
+        "Amphibian",
+        "Lizard",
+        "Crocodilian",
+        "Snake"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Komodo dragon is the largest living species of lizard, native to Indonesia."
+    },
+    {
+      "id": "science_37",
+      "question": "Which mammal is known to lay eggs?",
+      "options": [
+        "Platypus",
+        "Bat",
+        "Kangaroo",
+        "Armadillo"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Monotremes like the platypus and echidna are the only egg-laying mammals."
+    },
+    {
+      "id": "science_38",
+      "question": "What is a group of lions called?",
+      "options": [
+        "Pack",
+        "Herd",
+        "Pride",
+        "Flock"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A social family group of lions is known as a pride."
+    },
+    {
+      "id": "science_39",
+      "question": "Which aquatic animal can sleep with one half of its brain awake?",
+      "options": [
+        "Dolphin",
+        "Clownfish",
+        "Octopus",
+        "Sea Horse"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dolphins practice unihemispheric sleep to stay alert and breathe while resting."
+    },
+    {
+      "id": "science_40",
+      "question": "Which animal has the thickest fur of any mammal?",
+      "options": [
+        "Polar Bear",
+        "Sea Otter",
+        "Arctic Fox",
+        "Chinchilla"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sea otters have up to one million hairs per square inch of skin."
+    },
+    {
+      "id": "science_41",
+      "question": "What is the outermost solid shell of planet Earth called?",
+      "options": [
+        "Mantle",
+        "Crust",
+        "Outer Core",
+        "Inner Core"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The crust is Earth's thin, solid rocky outermost layer."
+    },
+    {
+      "id": "science_42",
+      "question": "What scale is historically used to measure the magnitude of earthquakes?",
+      "options": [
+        "Mohs Scale",
+        "Beaufort Scale",
+        "Richter Scale",
+        "Kelvin Scale"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Richter scale quantifies the seismic energy released by earthquakes."
+    },
+    {
+      "id": "science_43",
+      "question": "What molten rock is called before it reaches Earth's surface?",
+      "options": [
+        "Lava",
+        "Magma",
+        "Basalt",
+        "Pumice"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Molten rock beneath the Earth's crust is magma; once erupted, it is lava."
+    },
+    {
+      "id": "science_44",
+      "question": "What type of rock is formed by the cooling and solidification of magma?",
+      "options": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Fossiliferous"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Igneous rock forms when magma or lava cools and crystallizes."
+    },
+    {
+      "id": "science_45",
+      "question": "Which layer of Earth's atmosphere contains the ozone layer?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The stratosphere houses the ozone layer, which absorbs harmful ultraviolet radiation."
+    },
+    {
+      "id": "science_46",
+      "question": "What mineral rates a 10 (hardest) on the Mohs Hardness Scale?",
+      "options": [
+        "Corundum",
+        "Quartz",
+        "Diamond",
+        "Gypsum"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Diamond tops the Mohs scale at 10, while talc is the softest at 1."
+    },
+    {
+      "id": "science_47",
+      "question": "What causes ocean tides on Earth?",
+      "options": [
+        "Earth's rotation only",
+        "Gravitational pull of the Moon and Sun",
+        "Underwater volcanoes",
+        "Wind currents"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The gravitational attraction of the Moon and Sun creates tidal bulges in oceans."
+    },
+    {
+      "id": "science_48",
+      "question": "Which is the largest ocean on Earth by surface area?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Pacific Ocean covers over 30% of Earth's total surface area."
+    },
+    {
+      "id": "science_49",
+      "question": "What is the name of the supercontinent that existed during the late Paleozoic era?",
+      "options": [
+        "Gondwana",
+        "Pangea",
+        "Laurasia",
+        "Rodinia"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Pangea was a giant supercontinent that began breaking apart ~200 million years ago."
+    },
+    {
+      "id": "science_50",
+      "question": "What instrument is used to record seismic waves from earthquakes?",
+      "options": [
+        "Barometer",
+        "Seismograph",
+        "Anemometer",
+        "Hydrometer"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A seismograph or seismometer detects and graphs ground motions from tremors."
+    },
+    {
+      "id": "science_51",
+      "question": "What green pigment in plants is essential for photosynthesis?",
+      "options": [
+        "Anthocyanin",
+        "Carotenoid",
+        "Chlorophyll",
+        "Xanthophyll"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Chlorophyll absorbs red and blue light to convert carbon dioxide and water into sugars."
+    },
+    {
+      "id": "science_52",
+      "question": "What tissue in vascular plants conducts water and dissolved minerals from roots upward?",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Cortex",
+        "Epidermis"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Xylem transports water upward, while phloem transports sugars throughout the plant."
+    },
+    {
+      "id": "science_53",
+      "question": "What tiny pores on plant leaves regulate gas exchange and transpiration?",
+      "options": [
+        "Stomata",
+        "Vacuoles",
+        "Chloroplasts",
+        "Cuticles"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Stomata are microscopic openings controlled by guard cells on leaf surfaces."
+    },
+    {
+      "id": "science_54",
+      "question": "Which trees keep their leaves or needles all year round?",
+      "options": [
+        "Deciduous",
+        "Evergreen",
+        "Herbaceous",
+        "Annual"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Evergreen trees maintain green foliage throughout all seasons."
+    },
+    {
+      "id": "science_55",
+      "question": "What is the reproductive unit of a flowering plant that develops into fruit?",
+      "options": [
+        "Ovary",
+        "Stamen",
+        "Petal",
+        "Sepal"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The ovary of a flower swells and ripens into a fruit containing seeds."
+    },
+    {
+      "id": "science_56",
+      "question": "Which plant is known as the fastest-growing woody plant on Earth?",
+      "options": [
+        "Oak",
+        "Pine",
+        "Bamboo",
+        "Redwood"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Certain bamboo species can grow up to 35 inches (91 cm) in a single day."
+    },
+    {
+      "id": "science_57",
+      "question": "What type of gas do ripening fruits like bananas naturally emit?",
+      "options": [
+        "Ethylene",
+        "Oxygen",
+        "Methane",
+        "Helium"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ethylene is a natural plant hormone that triggers fruit ripening and leaf fall."
+    },
+    {
+      "id": "science_58",
+      "question": "What carnivorous plant catches insects using snap traps?",
+      "options": [
+        "Pitcher Plant",
+        "Sundew",
+        "Venus Flytrap",
+        "Butterwort"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Venus flytraps snap shut when trigger hairs inside their lobes are touched."
+    },
+    {
+      "id": "science_59",
+      "question": "What do we call plants that complete their entire lifecycle within one single year?",
+      "options": [
+        "Perennials",
+        "Biennials",
+        "Annuals",
+        "Epiphytes"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Annual plants germinate, flower, set seed, and die within one growing season."
+    },
+    {
+      "id": "science_60",
+      "question": "What process allows water to evaporate from plant leaves into the air?",
+      "options": [
+        "Transpiration",
+        "Respiration",
+        "Osmosis",
+        "Fermentation"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Transpiration is the evaporation of water from plant aerial parts into the atmosphere."
+    },
+    {
+      "id": "science_61",
+      "question": "Which is the largest planet in our solar system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Jupiter has more mass than all the other planets in the solar system combined."
+    },
+    {
+      "id": "science_62",
+      "question": "What is the name of the boundary beyond which nothing, not even light, can escape a black hole?",
+      "options": [
+        "Singularity",
+        "Accretion Disk",
+        "Event Horizon",
+        "Photon Sphere"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The event horizon marks the point of no return around a black hole."
+    },
+    {
+      "id": "science_63",
+      "question": "What astronomical unit (AU) represents the average distance between which two bodies?",
+      "options": [
+        "Earth and Moon",
+        "Earth and Sun",
+        "Sun and Mars",
+        "Sun and Jupiter"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "One AU is roughly 149.6 million kilometers (93 million miles), the Earth-Sun distance."
+    },
+    {
+      "id": "science_64",
+      "question": "What is the Great Red Spot observed on Jupiter?",
+      "options": [
+        "A volcano",
+        "A gigantic storm",
+        "A massive crater",
+        "A frozen ocean"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Great Red Spot is a persistent high-pressure anticyclonic storm larger than Earth."
+    },
+    {
+      "id": "science_65",
+      "question": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+      "options": [
+        "Mars",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Uranus rotates almost completely on its side, likely caused by a massive ancient impact."
+    },
+    {
+      "id": "science_66",
+      "question": "What is the name of NASA's rover that landed on Mars in February 2021?",
+      "options": [
+        "Curiosity",
+        "Opportunity",
+        "Perseverance",
+        "Spirit"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Perseverance landed in Jezero Crater to search for signs of ancient microbial life."
+    },
+    {
+      "id": "science_67",
+      "question": "What celestial body was reclassified from a planet to a dwarf planet in 2006?",
+      "options": [
+        "Ceres",
+        "Pluto",
+        "Eris",
+        "Makemake"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The International Astronomical Union redefined 'planet' in 2006, reclassifying Pluto."
+    },
+    {
+      "id": "science_68",
+      "question": "Which galaxy is the closest large spiral galaxy to the Milky Way?",
+      "options": [
+        "Triangulum Galaxy",
+        "Andromeda Galaxy",
+        "Whirlpool Galaxy",
+        "Sombrero Galaxy"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Andromeda (M31) is approximately 2.5 million light-years from Earth."
+    },
+    {
+      "id": "science_69",
+      "question": "What are comets predominantly composed of?",
+      "options": [
+        "Iron and nickel",
+        "Ice, dust, and rock",
+        "Pure liquid gas",
+        "Dense gold ore"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Comets are often described as 'dirty snowballs' made of frozen gases, rock, and dust."
+    },
+    {
+      "id": "science_70",
+      "question": "What was the name of the first human-made satellite launched into space in 1957?",
+      "options": [
+        "Explorer 1",
+        "Sputnik 1",
+        "Vostok 1",
+        "Apollo 1"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Soviet Union launched Sputnik 1 into low Earth orbit on October 4, 1957."
+    },
+    {
+      "id": "science_71",
+      "question": "In which medium does sound travel the fastest?",
+      "options": [
+        "Air",
+        "Water",
+        "Steel",
+        "Vacuum"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Sound waves travel fastest through dense solids like steel (~5,960 m/s) due to closely packed particles."
+    },
+    {
+      "id": "science_72",
+      "question": "Can sound travel through an absolute vacuum?",
+      "options": [
+        "Yes, easily",
+        "No, it requires a medium",
+        "Only high frequencies",
+        "Only at high power"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sound is a mechanical pressure wave requiring matter to transmit vibrations."
+    },
+    {
+      "id": "science_73",
+      "question": "What unit is used to measure electrical resistance?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Ohm (Ω) is the SI unit of electrical resistance, named after Georg Simon Ohm."
+    },
+    {
+      "id": "science_74",
+      "question": "What phenomenon causes a rainbow to form in the sky?",
+      "options": [
+        "Diffraction only",
+        "Refraction, reflection, and dispersion",
+        "Total internal absorption",
+        "Polarization"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Raindrops act as prisms that refract, reflect, and disperse sunlight into colors."
+    },
+    {
+      "id": "science_75",
+      "question": "What is the unit of frequency equal to one cycle per second?",
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Joule",
+        "Pascal"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Hertz (Hz) measures wave frequency, named after physicist Heinrich Hertz."
+    },
+    {
+      "id": "science_76",
+      "question": "Which color of visible light has the shortest wavelength?",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Violet"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Violet light has wavelengths around 380-450 nm, while red has the longest (~700 nm)."
+    },
+    {
+      "id": "science_77",
+      "question": "What law states that for every action, there is an equal and opposite reaction?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Hooke's Law"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Newton's Third Law of Motion states that mutual forces between two bodies are equal and opposite."
+    },
+    {
+      "id": "science_78",
+      "question": "What is the unit of power equal to one joule per second?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Watt",
+        "Ohm"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The watt (W) is the SI unit of power, named after Scottish engineer James Watt."
+    },
+    {
+      "id": "science_79",
+      "question": "What property of a sound wave determines its perceived pitch?",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Speed",
+        "Phase"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Higher wave frequency produces higher perceived audio pitch."
+    },
+    {
+      "id": "science_80",
+      "question": "What device converts mechanical energy into electrical energy?",
+      "options": [
+        "Electric motor",
+        "Generator",
+        "Transformer",
+        "Capacitor"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An electric generator uses electromagnetic induction to turn mechanical work into electricity."
+    },
+    {
+      "id": "science_81",
+      "question": "What is commonly referred to as the 'powerhouse of the cell'?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Endoplasmic Reticulum"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Mitochondria generate most of the cell's chemical energy supply in the form of ATP."
+    },
+    {
+      "id": "science_82",
+      "question": "What molecule carries genetic instructions in all living organisms?",
+      "options": [
+        "RNA",
+        "DNA",
+        "ATP",
+        "Lipid"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Deoxyribonucleic acid (DNA) stores the biological blueprint for development and reproduction."
+    },
+    {
+      "id": "science_83",
+      "question": "Which cellular organelle is responsible for synthesizing proteins?",
+      "options": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Lysosome",
+        "Vacuole"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ribosomes translate messenger RNA into polypeptide protein chains."
+    },
+    {
+      "id": "science_84",
+      "question": "What is the process of cell division that results in two identical daughter cells?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Fertilization"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mitosis produces two genetically identical diploid somatic cells."
+    },
+    {
+      "id": "science_85",
+      "question": "How many pairs of chromosomes do typical human body cells contain?",
+      "options": [
+        "21 pairs",
+        "22 pairs",
+        "23 pairs",
+        "24 pairs"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Humans have 23 pairs of chromosomes, totaling 46 chromosomes in each cell."
+    },
+    {
+      "id": "science_86",
+      "question": "What nitrogenous base pairs with Adenine in DNA?",
+      "options": [
+        "Cytosine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "In DNA, Adenine (A) bonds with Thymine (T), and Cytosine (C) bonds with Guanine (G)."
+    },
+    {
+      "id": "science_87",
+      "question": "What biological catalyst speeds up biochemical reactions without being consumed?",
+      "options": [
+        "Hormone",
+        "Enzyme",
+        "Vitamin",
+        "Antibody"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Enzymes are protein catalysts that drastically lower the activation energy of reactions."
+    },
+    {
+      "id": "science_88",
+      "question": "What is the semi-permeable boundary that surrounds every living cell?",
+      "options": [
+        "Cell wall",
+        "Plasma membrane",
+        "Cytoplasm",
+        "Nuclear envelope"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The plasma membrane is a phospholipid bilayer regulating substances entering and exiting the cell."
+    },
+    {
+      "id": "science_89",
+      "question": "What organelle is found in plant cells but absent in animal cells?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Ribosome",
+        "Nucleolus"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Chloroplasts allow plant cells to perform photosynthesis; animal cells lack them."
+    },
+    {
+      "id": "science_90",
+      "question": "Which acid is naturally found in the human stomach to aid digestion?",
+      "options": [
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Acetic acid"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Gastric juice contains hydrochloric acid (HCl) with a pH around 1.5 to 3.5."
+    },
+    {
+      "id": "science_91",
+      "question": "What is the primary greenhouse gas emitted through human fossil fuel combustion?",
+      "options": [
+        "Methane",
+        "Carbon Dioxide",
+        "Nitrous Oxide",
+        "Ozone"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Carbon dioxide (CO2) accounts for the largest fraction of human-induced greenhouse emissions."
+    },
+    {
+      "id": "science_92",
+      "question": "What do we call organisms that produce their own food from sunlight or chemicals?",
+      "options": [
+        "Heterotrophs",
+        "Autotrophs",
+        "Decomposers",
+        "Carnivores"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Autotrophs (like plants and algae) produce organic compounds using light or chemical energy."
+    },
+    {
+      "id": "science_93",
+      "question": "What is the highest layer of Earth's atmosphere merging into outer space?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The exosphere is the outermost atmospheric layer, extending thousands of kilometers."
+    },
+    {
+      "id": "science_94",
+      "question": "What renewable energy source harnesses heat from beneath Earth's crust?",
+      "options": [
+        "Biomass",
+        "Geothermal energy",
+        "Hydroelectric energy",
+        "Solar thermal"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Geothermal energy utilizes subterranean hot water and steam reservoirs."
+    },
+    {
+      "id": "science_95",
+      "question": "What is the term for a biological community of interacting organisms and their physical environment?",
+      "options": [
+        "Biome",
+        "Ecosystem",
+        "Habitat",
+        "Biosphere"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An ecosystem encompasses living organisms interacting with non-living elements like soil and water."
+    },
+    {
+      "id": "science_96",
+      "question": "Which international agreement adopted in 2015 aims to limit global warming below 2°C?",
+      "options": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Geneva Convention"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Paris Agreement unites nearly 200 nations to curb greenhouse emissions."
+    },
+    {
+      "id": "science_97",
+      "question": "What environmental phenomenon describes the gradual breakdown of rocks by wind and water?",
+      "options": [
+        "Erosion",
+        "Weathering",
+        "Deposition",
+        "Sedimentation"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Weathering breaks rocks down mechanically or chemically in place."
+    },
+    {
+      "id": "science_98",
+      "question": "Which ocean ecosystem is often nicknamed the 'rainforest of the sea'?",
+      "options": [
+        "Mangrove forest",
+        "Coral reef",
+        "Kelp forest",
+        "Abyssal plain"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Coral reefs support over 25% of all marine life despite covering less than 1% of the ocean floor."
+    },
+    {
+      "id": "science_99",
+      "question": "What layer of soil contains the highest concentration of organic matter and nutrients?",
+      "options": [
+        "Subsoil",
+        "Bedrock",
+        "Topsoil",
+        "Regolith"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Topsoil (the A-horizon) is rich in decayed organic material, humus, and micro-organisms."
+    },
+    {
+      "id": "science_100",
+      "question": "What chemical compounds were banned globally under the Montreal Protocol to protect the ozone layer?",
+      "options": [
+        "CFCs (Chlorofluorocarbons)",
+        "PCBs",
+        "DDT",
+        "BPA"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "CFCs depleted stratospheric ozone and were phased out successfully under the Montreal Protocol."
+    },
+    {
+      "id": "science_101",
+      "question": "Who discovered penicillin, the first widely used antibiotic, in 1928?",
+      "options": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Robert Koch"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Sir Alexander Fleming noticed Penicillium mold destroying staphylococcus bacteria in a culture dish."
+    },
+    {
+      "id": "science_102",
+      "question": "Who proposed the General Theory of Relativity in 1915?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Albert Einstein revolutionized physics by showing gravity is the curvature of spacetime."
+    },
+    {
+      "id": "science_103",
+      "question": "What subatomic particle was discovered at the CERN Large Hadron Collider in 2012?",
+      "options": [
+        "Neutron",
+        "Higgs Boson",
+        "Positron",
+        "Top Quark"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Higgs boson confirmed the mechanism that gives mass to fundamental particles."
+    },
+    {
+      "id": "science_104",
+      "question": "What gene-editing technology allows scientists to modify DNA with high precision?",
+      "options": [
+        "PCR",
+        "CRISPR-Cas9",
+        "Gel electrophoresis",
+        "ELISA"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "CRISPR-Cas9 uses RNA guides to target and edit precise DNA sequences."
+    },
+    {
+      "id": "science_105",
+      "question": "Who developed the first successful polio vaccine in the 1950s?",
+      "options": [
+        "Jonas Salk",
+        "Albert Sabin",
+        "Alexander Fleming",
+        "Louis Pasteur"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dr. Jonas Salk developed the inactivated polio vaccine (IPV), announced safe and effective in 1955."
+    },
+    {
+      "id": "science_106",
+      "question": "What telescope launched in December 2021 succeeded the Hubble Space Telescope?",
+      "options": [
+        "Spitzer",
+        "James Webb Space Telescope",
+        "Chandra",
+        "Kepler"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The James Webb Space Telescope uses infrared astronomy to view the earliest stars and galaxies."
+    },
+    {
+      "id": "science_107",
+      "question": "What famous equation describes the equivalence of mass and energy?",
+      "options": [
+        "F = ma",
+        "E = mc²",
+        "V = IR",
+        "PV = nRT"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "E = mc² shows that mass can be converted into immense amounts of energy."
+    },
+    {
+      "id": "science_108",
+      "question": "Who is credited with discovering the three laws of planetary motion?",
+      "options": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Tycho Brahe"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Johannes Kepler published his laws of planetary motion between 1609 and 1619."
+    },
+    {
+      "id": "science_109",
+      "question": "What radioactive element was discovered by Marie and Pierre Curie in 1898?",
+      "options": [
+        "Uranium",
+        "Radium",
+        "Thorium",
+        "Plutonium"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Marie and Pierre Curie isolated radium and polonium from uraninite ore."
+    },
+    {
+      "id": "science_110",
+      "question": "What is the absolute coldest possible temperature in thermodynamics?",
+      "options": [
+        "0°C",
+        "-100°C",
+        "-273.15°C (0 Kelvin)",
+        "-459.67°C"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Absolute zero is 0 K (-273.15°C), where all classical molecular motion ceases."
+    }
+  ]
+}
