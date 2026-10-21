@@ -1,33 +1,22 @@
-import 'firebase_options.dart';
-import 'package:chat_app/utils/common_exports.dart';
+import 'package:gk_quiz_app/utils/common_exports.dart';
 
-void main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
-  runApp(const FlutterChatApp());
+  runApp(const GKQuizApp());
 }
 
-class FlutterChatApp extends StatelessWidget {
-  const FlutterChatApp({super.key});
+class GKQuizApp extends StatelessWidget {
+  const GKQuizApp({super.key});
 
   @override
-  Widget build(BuildContext context) => MaterialApp(
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'GK Quiz App',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
-      home: StreamBuilder(
-          stream: FirebaseAuth.instance.authStateChanges(),
-          builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.waiting) {
-              return SplashScreen();
-            }
-            if (snapshot.hasData) {
-              return ChatScreen();
-            }
-            return AuthScreen();
-          }));
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
+      themeMode: ThemeMode.system,
+      home: const HomeScreen(),
+    );
+  }
 }

@@ -1,5 +1,5 @@
-name: chat_app
-description: "A new Flutter project."
+name: gk_quiz_app
+description: "A General Knowledge Quiz Flutter application."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -13,8 +13,6 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  firebase_core: ^4.4.0
-  firebase_auth: ^6.1.4
 
 dev_dependencies:
   flutter_test:
@@ -25,6 +23,5 @@ flutter:
   uses-material-design: true
 
   assets:
-     - assets/
-     - assets/images/
-
+    - assets/
+    - assets/images/

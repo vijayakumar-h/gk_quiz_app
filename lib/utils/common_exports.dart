@@ -1,6 +1,9 @@
 export 'package:flutter/material.dart';
-export 'package:chat_app/screen/auth.dart';
-export 'package:chat_app/screen/chat_screen.dart';
-export 'package:firebase_auth/firebase_auth.dart';
-export 'package:firebase_core/firebase_core.dart';
-export 'package:chat_app/screen/splash_screen.dart';
+export 'package:gk_quiz_app/data/quiz_data.dart';
+export 'package:gk_quiz_app/models/quiz_category.dart';
+export 'package:gk_quiz_app/models/quiz_question.dart';
+export 'package:gk_quiz_app/models/quiz_result.dart';
+export 'package:gk_quiz_app/screens/home_screen.dart';
+export 'package:gk_quiz_app/screens/quiz_screen.dart';
+export 'package:gk_quiz_app/screens/result_screen.dart';
+export 'package:gk_quiz_app/utils/app_theme.dart';
